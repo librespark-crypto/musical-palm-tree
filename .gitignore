@@ -1,9 +1,14 @@
 node_modules/
-dist/
-build/
 .next/
+out/
+build/
+dist/
+coverage/
+.vercel/
 .env
 .env.local
 .env.*.local
 *.log
+npm-debug.log*
 .DS_Store
+*.tsbuildinfo

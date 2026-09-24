@@ -1,0 +1,221 @@
+@import 'tailwindcss';
+
+/* Class-based dark mode: the theme provider toggles `.dark` on <html>. */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* --------------------------------------------------------------------------
+   Raw design tokens. Light theme is a warm, low-glare "paper" palette that is
+   comfortable for long study sessions; the dark theme is a deep slate. Both
+   are checked for contrast (body text >= 7:1 on its own background).
+   -------------------------------------------------------------------------- */
+:root {
+  --c-canvas: #f6f5f2;
+  --c-surface: #ffffff;
+  --c-surface-2: #f1efea;
+  --c-line: #e2ded6;
+  --c-line-strong: #cfc9be;
+  --c-ink: #1a1c1b;
+  --c-ink-muted: #5d625f;
+  --c-ink-subtle: #838b87;
+  --c-brand: #0f766e;
+  --c-brand-strong: #0b5f59;
+  --c-brand-soft: #d8f0ec;
+  --c-brand-ink: #ffffff;
+  --c-phy: #2f6fd0;
+  --c-chem: #17845a;
+  --c-math: #b45309;
+  --c-success: #15803d;
+  --c-warn: #b45309;
+  --c-danger: #b91c1c;
+  --c-info: #1d4ed8;
+
+  --chart-phy: #3b82f6;
+  --chart-chem: #10b981;
+  --chart-math: #f59e0b;
+  --chart-accent: #0f766e;
+  --chart-warn: #d97706;
+  --chart-danger: #dc2626;
+  --chart-muted: #cbd5e1;
+
+  --shadow-card: 0 1px 2px rgb(16 24 40 / 0.04), 0 1px 3px rgb(16 24 40 / 0.06);
+  --shadow-pop: 0 12px 32px -12px rgb(16 24 40 / 0.28), 0 2px 8px rgb(16 24 40 / 0.08);
+  --radius-card: 14px;
+}
+
+.dark {
+  --c-canvas: #0c1116;
+  --c-surface: #141a21;
+  --c-surface-2: #1b232c;
+  --c-line: #26303a;
+  --c-line-strong: #38434f;
+  --c-ink: #eef2f5;
+  --c-ink-muted: #a4b0bb;
+  --c-ink-subtle: #7d8994;
+  --c-brand: #2dd4bf;
+  --c-brand-strong: #5eead4;
+  --c-brand-soft: #123c3a;
+  --c-brand-ink: #06231f;
+  --c-phy: #7cb0ff;
+  --c-chem: #4ade80;
+  --c-math: #fbbf24;
+  --c-success: #4ade80;
+  --c-warn: #fbbf24;
+  --c-danger: #f87171;
+  --c-info: #93c5fd;
+
+  --chart-phy: #7cb0ff;
+  --chart-chem: #4ade80;
+  --chart-math: #fbbf24;
+  --chart-accent: #2dd4bf;
+  --chart-warn: #fbbf24;
+  --chart-danger: #f87171;
+  --chart-muted: #475569;
+
+  --shadow-card: 0 1px 2px rgb(0 0 0 / 0.4);
+  --shadow-pop: 0 16px 40px -16px rgb(0 0 0 / 0.7);
+}
+
+@theme inline {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+
+  --color-canvas: var(--c-canvas);
+  --color-surface: var(--c-surface);
+  --color-surface-2: var(--c-surface-2);
+  --color-line: var(--c-line);
+  --color-line-strong: var(--c-line-strong);
+  --color-ink: var(--c-ink);
+  --color-ink-muted: var(--c-ink-muted);
+  --color-ink-subtle: var(--c-ink-subtle);
+  --color-brand: var(--c-brand);
+  --color-brand-strong: var(--c-brand-strong);
+  --color-brand-soft: var(--c-brand-soft);
+  --color-brand-ink: var(--c-brand-ink);
+  --color-phy: var(--c-phy);
+  --color-chem: var(--c-chem);
+  --color-math: var(--c-math);
+  --color-success: var(--c-success);
+  --color-warn: var(--c-warn);
+  --color-danger: var(--c-danger);
+  --color-info: var(--c-info);
+
+  --radius-card: var(--radius-card);
+  --shadow-card: var(--shadow-card);
+  --shadow-pop: var(--shadow-pop);
+}
+
+@layer base {
+  * {
+    border-color: var(--c-line);
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    scrollbar-gutter: stable;
+  }
+
+  body {
+    background-color: var(--c-canvas);
+    color: var(--c-ink);
+    font-family: var(--font-sans);
+    font-feature-settings: 'cv02', 'cv03', 'cv04';
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    letter-spacing: -0.011em;
+    text-wrap: balance;
+  }
+
+  /* Numbers line up in tables and stat cards. */
+  table,
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--c-brand);
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+
+  ::selection {
+    background: var(--c-brand-soft);
+    color: var(--c-ink);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.001ms !important;
+      transition-duration: 0.001ms !important;
+    }
+  }
+}
+
+@layer utilities {
+  .scroll-x {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+  }
+
+  .no-print {
+    /* utility hook used by print styles */
+  }
+
+  .animate-in-up {
+    animation: in-up 0.22s ease-out both;
+  }
+}
+
+@keyframes in-up {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Recharts renders SVG text; inherit our palette so charts respect dark mode. */
+.recharts-text,
+.recharts-cartesian-axis-tick-value {
+  fill: var(--c-ink-muted);
+  font-size: 11px;
+}
+
+.recharts-cartesian-grid line {
+  stroke: var(--c-line);
+}
+
+.recharts-default-tooltip {
+  border-radius: 10px !important;
+  border: 1px solid var(--c-line) !important;
+  background: var(--c-surface) !important;
+  box-shadow: var(--shadow-pop) !important;
+  font-size: 12px !important;
+}
+
+.recharts-surface {
+  overflow: visible;
+}
+
+@media print {
+  aside,
+  nav,
+  .no-print {
+    display: none !important;
+  }
+  body {
+    background: #fff;
+  }
+}
