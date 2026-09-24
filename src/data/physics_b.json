@@ -1,0 +1,416 @@
+{
+  "subject": "Physics",
+  "code": "phy",
+  "part": 2,
+  "chapters": [
+    {
+      "n": "Electrostatics",
+      "unit": "Unit 11",
+      "srcJM": "Unit 11: Electrostatics",
+      "srcJA": "Electricity and Magnetism",
+      "topics": [
+        {
+          "n": "Electric Charges and Coulomb's Law",
+          "e": "b",
+          "subs": [
+            "m: Electric charges: conservation of charge",
+            "b: Coulomb's law: forces between two point charges",
+            "b: Forces between multiple charges",
+            "b: Superposition principle and continuous charge distribution"
+          ]
+        },
+        {
+          "n": "Electric Field and Dipole",
+          "e": "b",
+          "subs": [
+            "b: Electric field due to a point charge",
+            "b: Electric field lines",
+            "b: Electric dipole, field due to a dipole",
+            "b: Torque on a dipole in a uniform electric field"
+          ]
+        },
+        {
+          "n": "Electric Flux and Gauss's Law",
+          "e": "b",
+          "subs": [
+            "b: Electric flux, Gauss's law and its applications",
+            "b: Field due to an infinitely long uniformly charged straight wire",
+            "b: Field due to a uniformly charged infinite plane sheet",
+            "b: Field due to a uniformly charged thin spherical shell"
+          ]
+        },
+        {
+          "n": "Electric Potential and Potential Energy",
+          "e": "b",
+          "subs": [
+            "b: Electric potential and its calculation for a point charge, dipole and system of charges",
+            "b: Potential difference, equipotential surfaces",
+            "b: Electrical potential energy of a system of two point charges",
+            "b: Potential energy of an electric dipole in an electrostatic field"
+          ]
+        },
+        {
+          "n": "Conductors, Dielectrics and Capacitance",
+          "e": "b",
+          "subs": [
+            "b: Conductors and insulators",
+            "b: Dielectrics and electric polarization",
+            "b: Capacitors and capacitance",
+            "b: Combination of capacitors in series and parallel",
+            "b: Capacitance of a parallel plate capacitor with and without dielectric medium",
+            "b: Energy stored in a capacitor"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Current Electricity",
+      "unit": "Unit 12",
+      "srcJM": "Unit 12: Current Electricity",
+      "srcJA": "Electricity and Magnetism",
+      "topics": [
+        {
+          "n": "Electric Current, Drift Velocity and Ohm's Law",
+          "e": "b",
+          "subs": [
+            "m: Electric current, drift velocity, mobility and their relation with electric current",
+            "b: Ohm's law",
+            "b: Electrical resistance, I-V characteristics of ohmic and non-ohmic conductors",
+            "b: Electrical resistivity and conductivity, temperature dependence of resistance",
+            "b: Electrical energy and power"
+          ]
+        },
+        {
+          "n": "Resistor Combinations and Cells",
+          "e": "b",
+          "subs": [
+            "m: Series and parallel combinations of resistors",
+            "m: Internal resistance, potential difference and emf of a cell",
+            "m: Combination of cells in series and parallel",
+            "a: Series and parallel arrangements of resistances and cells"
+          ]
+        },
+        {
+          "n": "Kirchhoff's Laws and Measuring Instruments",
+          "e": "b",
+          "subs": [
+            "b: Kirchhoff's laws and their applications",
+            "m: Wheatstone bridge",
+            "m: Metre bridge",
+            "a: Heating effect of current",
+            "a: Simple applications of Kirchhoff's laws"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Magnetic Effects of Current and Magnetism",
+      "unit": "Unit 13",
+      "srcJM": "Unit 13: Magnetic Effects of Current and Magnetism",
+      "srcJA": "Electricity and Magnetism",
+      "topics": [
+        {
+          "n": "Biot-Savart Law and Ampere's Law",
+          "e": "b",
+          "subs": [
+            "b: Biot-Savart law and its application to a current carrying circular loop",
+            "b: Ampere's law and its applications to an infinitely long current carrying straight wire",
+            "b: Ampere's law applied to a solenoid",
+            "a: Magnetic field along the axis of a circular coil, inside a long straight solenoid"
+          ]
+        },
+        {
+          "n": "Force on Charges and Current-Carrying Conductors",
+          "e": "b",
+          "subs": [
+            "b: Force on a moving charge in uniform magnetic and electric fields",
+            "b: Force on a current-carrying conductor in a uniform magnetic field",
+            "m: Force between two parallel current carrying conductors, definition of ampere",
+            "b: Force on a current carrying wire in a uniform magnetic field"
+          ]
+        },
+        {
+          "n": "Torque on a Current Loop and Moving Coil Galvanometer",
+          "e": "b",
+          "subs": [
+            "b: Torque experienced by a current loop in a uniform magnetic field",
+            "b: Moving coil galvanometer, its sensitivity and conversion to ammeter and voltmeter",
+            "a: Magnetic moment of a current loop"
+          ]
+        },
+        {
+          "n": "Magnetism and Matter",
+          "e": "m",
+          "subs": [
+            "m: Current loop as a magnetic dipole and its magnetic dipole moment",
+            "m: Bar magnet as an equivalent solenoid",
+            "m: Magnetic field lines",
+            "m: Magnetic field due to a magnetic dipole (bar magnet) along its axis and perpendicular to its axis",
+            "m: Torque on a magnetic dipole in a uniform magnetic field",
+            "m: Para-, dia- and ferromagnetic substances with examples",
+            "m: Effect of temperature on magnetic properties"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Electromagnetic Induction and Alternating Currents",
+      "unit": "Unit 14",
+      "srcJM": "Unit 14: Electromagnetic Induction and Alternating Currents",
+      "srcJA": "Electricity and Magnetism",
+      "topics": [
+        {
+          "n": "Electromagnetic Induction",
+          "e": "b",
+          "subs": [
+            "b: Faraday's law of electromagnetic induction",
+            "m: Induced emf and current",
+            "b: Lenz's law",
+            "b: Self and mutual inductance",
+            "m: Eddy currents"
+          ]
+        },
+        {
+          "n": "Alternating Currents and AC Circuits",
+          "e": "b",
+          "subs": [
+            "m: Alternating currents, peak and RMS value of alternating current/voltage",
+            "m: Reactance and impedance",
+            "b: LCR series circuit",
+            "m: Resonance",
+            "m: Power in AC circuits, wattless current",
+            "a: RC, LR, LC and LCR (in series) circuits with d.c. and a.c. sources"
+          ]
+        },
+        {
+          "n": "AC Generator and Transformer",
+          "e": "m",
+          "subs": [
+            "m: AC generator",
+            "m: Transformer"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Electromagnetic Waves",
+      "unit": "Unit 15",
+      "srcJM": "Unit 15: Electromagnetic Waves",
+      "srcJA": "Electromagnetic Waves",
+      "topics": [
+        {
+          "n": "Displacement Current and EM Waves",
+          "e": "b",
+          "subs": [
+            "m: Displacement current",
+            "b: Electromagnetic waves and their characteristics",
+            "m: Transverse nature of electromagnetic waves"
+          ]
+        },
+        {
+          "n": "Electromagnetic Spectrum",
+          "e": "b",
+          "subs": [
+            "b: Electromagnetic spectrum (radio waves, microwaves, infrared, visible, ultraviolet, X-rays, gamma rays)",
+            "m: Applications of electromagnetic waves",
+            "a: Elementary facts about the uses of the electromagnetic spectrum"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Optics",
+      "unit": "Unit 16",
+      "srcJM": "Unit 16: Optics",
+      "srcJA": "Optics",
+      "topics": [
+        {
+          "n": "Ray Optics: Reflection and Refraction",
+          "e": "b",
+          "subs": [
+            "b: Reflection of light, spherical mirrors, mirror formula",
+            "b: Refraction of light at plane and spherical surfaces",
+            "b: Total internal reflection and its applications",
+            "b: Thin lens formula and lens maker formula",
+            "m: Magnification, power of a lens, combination of thin lenses in contact",
+            "a: Rectilinear propagation of light, refraction at plane and spherical surfaces",
+            "a: Thin lenses, combinations of mirrors and thin lenses, magnification"
+          ]
+        },
+        {
+          "n": "Prism and Optical Instruments",
+          "e": "b",
+          "subs": [
+            "b: Refraction of light through a prism, deviation and dispersion of light by a prism",
+            "m: Microscope (reflecting and refracting) and its magnifying power",
+            "m: Astronomical telescope (reflecting and refracting) and its magnifying power"
+          ]
+        },
+        {
+          "n": "Wave Optics: Interference",
+          "e": "b",
+          "subs": [
+            "b: Wavefront and Huygens' principle",
+            "b: Laws of reflection and refraction using Huygens' principle",
+            "b: Interference: Young's double-slit experiment and expression for fringe width",
+            "m: Coherent sources and sustained interference of light"
+          ]
+        },
+        {
+          "n": "Diffraction and Polarization",
+          "e": "b",
+          "subs": [
+            "b: Diffraction due to a single slit, width of central maximum",
+            "b: Polarization: plane-polarized light",
+            "b: Brewster's law",
+            "m: Uses of plane-polarized light and Polaroid",
+            "a: Polaroids"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Dual Nature of Matter and Radiation",
+      "unit": "Unit 17",
+      "srcJM": "Unit 17: Dual Nature of Matter and Radiation",
+      "srcJA": "Modern Physics",
+      "topics": [
+        {
+          "n": "Photoelectric Effect",
+          "e": "b",
+          "subs": [
+            "m: Dual nature of radiation",
+            "b: Photoelectric effect",
+            "m: Hertz and Lenard's observations",
+            "b: Einstein's photoelectric equation",
+            "m: Particle nature of light"
+          ]
+        },
+        {
+          "n": "Matter Waves",
+          "e": "b",
+          "subs": [
+            "b: Wave nature of particles, de Broglie relation",
+            "a: de Broglie wavelength of matter waves"
+          ]
+        },
+        {
+          "n": "X-rays",
+          "e": "a",
+          "subs": [
+            "a: Characteristic and continuous X-rays",
+            "a: Moseley's law"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Atoms and Nuclei",
+      "unit": "Unit 18",
+      "srcJM": "Unit 18: Atoms and Nuclei",
+      "srcJA": "Modern Physics",
+      "topics": [
+        {
+          "n": "Atomic Models and Hydrogen Spectrum",
+          "e": "b",
+          "subs": [
+            "m: Alpha-particle scattering experiment, Rutherford's model of atom",
+            "b: Bohr model of hydrogen-like atoms, energy levels",
+            "m: Hydrogen spectrum"
+          ]
+        },
+        {
+          "n": "Nucleus and Radioactivity",
+          "e": "b",
+          "subs": [
+            "m: Composition and size of nucleus, atomic masses",
+            "a: Atomic nucleus, alpha, beta and gamma radiations",
+            "a: Law of radioactive decay, decay constant, half-life and mean life",
+            "m: Mass-energy relation, mass defect, binding energy per nucleon and its variation with mass number",
+            "a: Binding energy and its calculation"
+          ]
+        },
+        {
+          "n": "Nuclear Fission and Fusion",
+          "e": "b",
+          "subs": [
+            "b: Nuclear fission and fusion",
+            "a: Energy calculation in fission and fusion processes"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Electronic Devices",
+      "unit": "Unit 19",
+      "srcJM": "Unit 19: Electronic Devices",
+      "srcJA": "Not part of the JEE Advanced 2026 syllabus",
+      "topics": [
+        {
+          "n": "Semiconductors and Diodes",
+          "e": "m",
+          "subs": [
+            "m: Semiconductors",
+            "m: Semiconductor diode: I-V characteristics in forward and reverse bias",
+            "m: Diode as a rectifier",
+            "m: I-V characteristics of LED, photodiode, solar cell and Zener diode",
+            "m: Zener diode as a voltage regulator"
+          ]
+        },
+        {
+          "n": "Logic Gates",
+          "e": "m",
+          "subs": ["m: Logic gates (OR, AND, NOT, NAND and NOR)"]
+        }
+      ]
+    },
+    {
+      "n": "Experimental Skills (Physics Practicals)",
+      "unit": "Unit 20",
+      "srcJM": "Unit 20: Experimental Skills",
+      "srcJA": "General (methods of measurement and error analysis)",
+      "topics": [
+        {
+          "n": "Measurement Experiments",
+          "e": "b",
+          "subs": [
+            "b: Vernier callipers - internal and external diameter and depth of a vessel",
+            "b: Screw gauge - thickness/diameter of thin sheet or wire",
+            "m: Simple pendulum - dissipation of energy by plotting graph between square of amplitude and time",
+            "a: Determination of g using simple pendulum",
+            "m: Metre scale - mass of an object by the principle of moments",
+            "b: Young's modulus of elasticity of the material of a metallic wire",
+            "b: Surface tension of water by capillary rise and effect of detergents",
+            "b: Coefficient of viscosity of a viscous liquid by terminal velocity of a spherical body",
+            "b: Speed of sound in air at room temperature using a resonance tube",
+            "b: Specific heat capacity of a solid and a liquid by the method of mixtures"
+          ]
+        },
+        {
+          "n": "Electrical and Optical Experiments",
+          "e": "b",
+          "subs": [
+            "b: Resistivity of the material of a given wire using a metre bridge",
+            "b: Resistance of a given wire using Ohm's law",
+            "a: Verification of Ohm's law using voltmeter and ammeter",
+            "a: Specific resistance of the material of a wire using metre bridge and post office box",
+            "m: Resistance and figure of merit of a galvanometer by half deflection method",
+            "b: Focal length of a convex mirror, concave mirror and convex lens using the parallax method",
+            "a: Focal length of a concave mirror and a convex lens using the u-v method",
+            "m: Plot of angle of deviation vs angle of incidence for a triangular prism",
+            "m: Refractive index of a glass slab using a travelling microscope"
+          ]
+        },
+        {
+          "n": "Electronics Experiments",
+          "e": "m",
+          "subs": [
+            "m: Characteristic curves of a p-n junction diode in forward and reverse bias",
+            "m: Characteristic curves of a Zener diode and finding reverse breakdown voltage",
+            "m: Identification of diode, LED, resistor and capacitor from a mixed collection"
+          ]
+        }
+      ]
+    }
+  ]
+}

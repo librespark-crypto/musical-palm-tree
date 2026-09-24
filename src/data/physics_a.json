@@ -1,0 +1,475 @@
+{
+  "subject": "Physics",
+  "code": "phy",
+  "sourceJM": "Syllabus for JEE (Main) 2026, Paper 1 (B.E./B.Tech.), NTA",
+  "sourceJA": "JEE (Advanced) 2026 Syllabus, IIT Roorkee (jeeadv.ac.in)",
+  "chapters": [
+    {
+      "n": "Units and Measurements",
+      "unit": "Unit 1",
+      "srcJM": "Unit 1: Units and Measurements",
+      "srcJA": "General",
+      "topics": [
+        {
+          "n": "Units and Systems of Units",
+          "e": "b",
+          "subs": [
+            "m: Units of measurements",
+            "m: System of units, SI units",
+            "b: Fundamental and derived units",
+            "b: Least count",
+            "b: Significant figures",
+            "b: Errors in measurements"
+          ]
+        },
+        {
+          "n": "Dimensions and Dimensional Analysis",
+          "e": "b",
+          "subs": [
+            "b: Dimensions of physical quantities",
+            "b: Dimensional analysis and its applications",
+            "a: Methods of measurement and error analysis for physical quantities"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Kinematics",
+      "unit": "Unit 2",
+      "srcJM": "Unit 2: Kinematics",
+      "srcJA": "Mechanics",
+      "topics": [
+        {
+          "n": "Motion in a Straight Line",
+          "e": "b",
+          "subs": [
+            "m: Frame of reference",
+            "b: Motion in a straight line",
+            "b: Speed and velocity",
+            "m: Uniform and non-uniform motion",
+            "m: Average speed and instantaneous velocity",
+            "b: Uniformly accelerated motion and relations for it",
+            "b: Velocity-time graph, position-time graph"
+          ]
+        },
+        {
+          "n": "Motion in a Plane and Projectiles",
+          "e": "b",
+          "subs": [
+            "b: Motion in a plane (Cartesian coordinates)",
+            "b: Projectile motion"
+          ]
+        },
+        {
+          "n": "Relative Velocity",
+          "e": "b",
+          "subs": ["b: Relative velocity"]
+        },
+        {
+          "n": "Uniform Circular Motion",
+          "e": "b",
+          "subs": ["b: Uniform circular motion"]
+        }
+      ]
+    },
+    {
+      "n": "Laws of Motion",
+      "unit": "Unit 3",
+      "srcJM": "Unit 3: Laws of Motion",
+      "srcJA": "Mechanics",
+      "topics": [
+        {
+          "n": "Newton's Laws of Motion",
+          "e": "b",
+          "subs": [
+            "m: Force and inertia",
+            "b: Newton's first law of motion",
+            "b: Momentum, Newton's second law of motion",
+            "b: Impulse",
+            "b: Newton's third law of motion",
+            "a: Inertial and uniformly accelerated frames of reference"
+          ]
+        },
+        {
+          "n": "Momentum Conservation and Equilibrium",
+          "e": "b",
+          "subs": [
+            "b: Law of conservation of linear momentum and its applications",
+            "m: Equilibrium of concurrent forces"
+          ]
+        },
+        {
+          "n": "Friction",
+          "e": "b",
+          "subs": [
+            "b: Static and kinetic (dynamic) friction",
+            "b: Laws of friction",
+            "m: Rolling friction"
+          ]
+        },
+        {
+          "n": "Dynamics of Circular Motion",
+          "e": "m",
+          "subs": [
+            "m: Centripetal force and its applications",
+            "m: Vehicle on a level circular road",
+            "m: Vehicle on a banked road"
+          ]
+        },
+        {
+          "n": "Work, Energy and Power (Newtonian context)",
+          "e": "b",
+          "subs": [
+            "b: Kinetic and potential energy",
+            "b: Work and power",
+            "b: Conservation of mechanical energy"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Work, Energy and Power",
+      "unit": "Unit 4",
+      "srcJM": "Unit 4: Work, Energy and Power",
+      "srcJA": "Mechanics",
+      "topics": [
+        {
+          "n": "Work and Energy Theorem",
+          "e": "b",
+          "subs": [
+            "m: Work done by a constant force and a variable force",
+            "b: Work-energy theorem",
+            "m: Power"
+          ]
+        },
+        {
+          "n": "Potential Energy and Conservation of Energy",
+          "e": "b",
+          "subs": [
+            "m: Potential energy of a spring",
+            "b: Conservation of mechanical energy",
+            "m: Conservative and non-conservative forces",
+            "m: Motion in a vertical circle"
+          ]
+        },
+        {
+          "n": "Collisions",
+          "e": "b",
+          "subs": [
+            "m: Elastic and inelastic collisions in one and two dimensions",
+            "b: Systems of particles and centre of mass",
+            "b: Elastic and inelastic collisions"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Rotational Motion",
+      "unit": "Unit 5",
+      "srcJM": "Unit 5: Rotational Motion",
+      "srcJA": "Mechanics",
+      "topics": [
+        {
+          "n": "Centre of Mass and Systems of Particles",
+          "e": "b",
+          "subs": [
+            "m: Centre of mass of a two-particle system",
+            "m: Centre of mass of a rigid body",
+            "a: Centre of mass and its motion (systems of particles)"
+          ]
+        },
+        {
+          "n": "Torque, Angular Momentum and its Conservation",
+          "e": "b",
+          "subs": [
+            "b: Basic concepts of rotational motion",
+            "b: Moment of a force, torque",
+            "b: Angular momentum",
+            "b: Conservation of angular momentum and its applications"
+          ]
+        },
+        {
+          "n": "Moment of Inertia",
+          "e": "b",
+          "subs": [
+            "b: Moment of inertia",
+            "m: Radius of gyration",
+            "b: Values of moments of inertia for simple geometrical objects",
+            "b: Parallel and perpendicular axes theorems and their applications"
+          ]
+        },
+        {
+          "n": "Dynamics of Rigid Bodies",
+          "e": "b",
+          "subs": [
+            "m: Equilibrium of rigid bodies",
+            "b: Rigid body rotation and equations of rotational motion",
+            "m: Comparison of linear and rotational motions",
+            "a: Dynamics of rigid bodies with a fixed axis of rotation",
+            "a: Collision of point masses with rigid bodies"
+          ]
+        },
+        {
+          "n": "Rolling Motion",
+          "e": "a",
+          "subs": [
+            "a: Rolling without slipping of rings, cylinders and spheres"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Gravitation",
+      "unit": "Unit 6",
+      "srcJM": "Unit 6: Gravitation",
+      "srcJA": "Mechanics",
+      "topics": [
+        {
+          "n": "Law of Gravitation and Acceleration due to Gravity",
+          "e": "b",
+          "subs": [
+            "b: Universal law of gravitation",
+            "b: Acceleration due to gravity and its variation with altitude and depth",
+            "a: Gravitational field"
+          ]
+        },
+        {
+          "n": "Gravitational Potential and Energy",
+          "e": "b",
+          "subs": [
+            "m: Gravitational potential energy, gravitational potential",
+            "a: Gravitational potential and field"
+          ]
+        },
+        {
+          "n": "Kepler's Laws and Satellites",
+          "e": "b",
+          "subs": [
+            "b: Kepler's laws of planetary motion",
+            "b: Motion of a satellite, orbital velocity, time period and energy of a satellite",
+            "b: Escape velocity",
+            "a: Geostationary orbits, motion of planets and satellites in circular orbits"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Properties of Solids and Liquids",
+      "unit": "Unit 7",
+      "srcJM": "Unit 7: Properties of Solids and Liquids (first part)",
+      "srcJA": "Mechanics",
+      "topics": [
+        {
+          "n": "Elasticity",
+          "e": "b",
+          "subs": [
+            "b: Elastic behaviour, stress-strain relationship, Hooke's law",
+            "b: Young's modulus",
+            "b: Bulk modulus and modulus of rigidity"
+          ]
+        },
+        {
+          "n": "Fluid Pressure and Buoyancy",
+          "e": "b",
+          "subs": [
+            "b: Pressure due to a fluid column",
+            "b: Pascal's law and its applications",
+            "m: Effect of gravity on fluid pressure",
+            "a: Pressure in a fluid, buoyancy"
+          ]
+        },
+        {
+          "n": "Viscosity and Fluid Flow",
+          "e": "b",
+          "subs": [
+            "b: Viscosity",
+            "m: Stoke's law, terminal velocity",
+            "a: Stoke's law, terminal velocity, streamline flow",
+            "m: Streamline and turbulent flow, critical velocity",
+            "a: Equation of continuity",
+            "b: Bernoulli's principle and its applications",
+            "a: Poiseuille's equation is excluded from the Advanced syllabus"
+          ]
+        },
+        {
+          "n": "Surface Tension",
+          "e": "b",
+          "subs": [
+            "b: Surface energy and surface tension",
+            "b: Angle of contact",
+            "b: Excess of pressure across a curved surface",
+            "b: Applications of surface tension: drops, bubbles and capillary rise"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Thermal Properties of Matter and Heat Transfer",
+      "unit": "Unit 7",
+      "srcJM": "Unit 7: Properties of Solids and Liquids (heat and thermal part)",
+      "srcJA": "Thermal Physics",
+      "topics": [
+        {
+          "n": "Thermal Expansion and Calorimetry",
+          "e": "b",
+          "subs": [
+            "b: Heat and temperature",
+            "b: Thermal expansion of solids, liquids and gases",
+            "b: Specific heat capacity",
+            "b: Calorimetry, change of state, latent heat"
+          ]
+        },
+        {
+          "n": "Heat Transfer",
+          "e": "b",
+          "subs": [
+            "b: Conduction",
+            "b: Convection",
+            "b: Radiation",
+            "a: Heat conduction in one dimension",
+            "a: Elementary concepts of convection and radiation",
+            "a: Newton's law of cooling"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Thermodynamics",
+      "unit": "Unit 8",
+      "srcJM": "Unit 8: Thermodynamics",
+      "srcJA": "Thermal Physics",
+      "topics": [
+        {
+          "n": "Basic Concepts and Zeroth Law",
+          "e": "b",
+          "subs": [
+            "m: Thermal equilibrium and concept of temperature",
+            "m: Zeroth law of thermodynamics",
+            "b: Heat, work and internal energy",
+            "b: Equivalence of heat and work"
+          ]
+        },
+        {
+          "n": "First Law of Thermodynamics",
+          "e": "b",
+          "subs": [
+            "b: First law of thermodynamics and its applications (ideal gases)",
+            "b: Isothermal and adiabatic processes",
+            "a: Bulk modulus of gases",
+            "a: Specific heats Cv and Cp for monoatomic and diatomic gases"
+          ]
+        },
+        {
+          "n": "Second Law of Thermodynamics",
+          "e": "b",
+          "subs": [
+            "b: Second law of thermodynamics",
+            "b: Reversible and irreversible processes",
+            "a: Carnot engine and its efficiency"
+          ]
+        },
+        {
+          "n": "Thermal Radiation",
+          "e": "a",
+          "subs": [
+            "a: Blackbody radiation: absorptive and emissive powers",
+            "a: Kirchhoff's law",
+            "a: Wien's displacement law",
+            "a: Stefan's law"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Kinetic Theory of Gases",
+      "unit": "Unit 9",
+      "srcJM": "Unit 9: Kinetic Theory of Gases",
+      "srcJA": "Thermal Physics",
+      "topics": [
+        {
+          "n": "Gas Laws and Equation of State",
+          "e": "b",
+          "subs": [
+            "b: Equation of state of a perfect gas",
+            "b: Ideal gas laws",
+            "m: Work done on compressing a gas",
+            "a: Absolute scale of temperature"
+          ]
+        },
+        {
+          "n": "Kinetic Theory and Molecular Speeds",
+          "e": "b",
+          "subs": [
+            "m: Kinetic theory of gases: assumptions",
+            "m: Concept of pressure",
+            "m: Kinetic interpretation of temperature",
+            "m: RMS speed of gas molecules",
+            "m: Mean free path, Avogadro's number"
+          ]
+        },
+        {
+          "n": "Degrees of Freedom and Specific Heats",
+          "e": "b",
+          "subs": [
+            "m: Degrees of freedom",
+            "m: Law of equipartition of energy and application to specific heat capacities of gases",
+            "a: Specific heats Cv and Cp for monoatomic and diatomic gases"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Oscillations and Waves",
+      "unit": "Unit 10",
+      "srcJM": "Unit 10: Oscillations and Waves",
+      "srcJA": "Mechanics",
+      "topics": [
+        {
+          "n": "Oscillations and Periodic Motion",
+          "e": "b",
+          "subs": [
+            "m: Oscillations and periodic motion: time period, frequency, displacement as a function of time, periodic functions"
+          ]
+        },
+        {
+          "n": "Simple Harmonic Motion",
+          "e": "b",
+          "subs": [
+            "b: Simple harmonic motion and its equation, phase",
+            "b: Oscillations of a spring: restoring force and force constant",
+            "b: Energy in SHM: kinetic and potential energies",
+            "m: Simple pendulum: derivation of expression for its time period",
+            "a: Linear and angular simple harmonic motions",
+            "a: Forced and damped oscillation (in one dimension), resonance"
+          ]
+        },
+        {
+          "n": "Wave Motion",
+          "e": "b",
+          "subs": [
+            "b: Wave motion, longitudinal and transverse waves",
+            "m: Speed of the travelling wave",
+            "b: Displacement relation for a progressive wave",
+            "b: Principle of superposition of waves",
+            "m: Reflection of waves"
+          ]
+        },
+        {
+          "n": "Standing Waves, Beats and Sound",
+          "e": "b",
+          "subs": [
+            "b: Standing waves in strings and organ pipes, fundamental mode and harmonics",
+            "b: Beats",
+            "a: Vibration of strings and air columns, resonance",
+            "a: Speed of sound in gases"
+          ]
+        },
+        {
+          "n": "Doppler Effect",
+          "e": "a",
+          "subs": ["a: Doppler effect (in sound)"]
+        }
+      ]
+    }
+  ]
+}

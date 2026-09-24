@@ -1,0 +1,591 @@
+{
+  "subject": "Chemistry",
+  "code": "chem",
+  "part": 1,
+  "sourceJM": "Syllabus for JEE (Main) 2026, Paper 1, NTA",
+  "sourceJA": "JEE (Advanced) 2026 Syllabus, IIT Roorkee",
+  "chapters": [
+    {
+      "n": "Some Basic Concepts in Chemistry",
+      "unit": "Unit 1 (Physical)",
+      "srcJM": "Unit 1: Some Basic Concepts in Chemistry",
+      "srcJA": "General topics",
+      "topics": [
+        {
+          "n": "Matter, Atoms, Molecules and Laws of Combination",
+          "e": "b",
+          "subs": [
+            "b: Matter and its nature",
+            "b: Dalton's atomic theory",
+            "b: Concept of atom, molecule, element and compound",
+            "b: Laws of chemical combination"
+          ]
+        },
+        {
+          "n": "Atomic and Molecular Masses, Mole Concept",
+          "e": "b",
+          "subs": [
+            "b: Atomic and molecular masses",
+            "b: Mole concept, molar mass",
+            "b: Percentage composition",
+            "b: Empirical and molecular formulae"
+          ]
+        },
+        {
+          "n": "Chemical Equations and Stoichiometry",
+          "e": "b",
+          "subs": [
+            "b: Balanced chemical equations",
+            "b: Calculations based on mole concept and stoichiometry",
+            "b: Calculations involving common oxidation-reduction reactions",
+            "b: Calculations involving neutralisation reactions",
+            "b: Calculations involving displacement reactions"
+          ]
+        },
+        {
+          "n": "Concentration Terms",
+          "e": "a",
+          "subs": [
+            "a: Concentration in terms of mole fraction",
+            "a: Molarity and molality",
+            "a: Normality"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Atomic Structure",
+      "unit": "Unit 2 (Physical)",
+      "srcJM": "Unit 2: Atomic Structure",
+      "srcJA": "Atomic Structure",
+      "topics": [
+        {
+          "n": "Nature of Electromagnetic Radiation",
+          "e": "b",
+          "subs": [
+            "b: Nature of electromagnetic radiation",
+            "b: Photoelectric effect"
+          ]
+        },
+        {
+          "n": "Bohr Model and Hydrogen Spectrum",
+          "e": "b",
+          "subs": [
+            "m: Spectrum of the hydrogen atom",
+            "m: Bohr model of a hydrogen atom - postulates",
+            "m: Derivation of relations for energy of the electron and radii of orbits",
+            "m: Limitations of Bohr's model",
+            "a: Bohr model, spectrum of the hydrogen atom"
+          ]
+        },
+        {
+          "n": "Dual Nature of Matter and Quantum Mechanics",
+          "e": "b",
+          "subs": [
+            "b: Dual nature of matter, de Broglie's relationship",
+            "b: Heisenberg uncertainty principle",
+            "m: Elementary ideas of quantum mechanics",
+            "m: Quantum mechanical model of the atom and its important features",
+            "m: Concept of atomic orbitals as one-electron wave functions",
+            "a: Qualitative quantum mechanical picture of hydrogen atom: energies, quantum numbers, wave function and probability density (plots only)"
+          ]
+        },
+        {
+          "n": "Quantum Numbers and Orbitals",
+          "e": "b",
+          "subs": [
+            "b: Shapes of s, p and d orbitals",
+            "m: Variation of psi and psi-squared with r for 1s and 2s orbitals",
+            "m: Various quantum numbers (principal, angular momentum and magnetic) and their significance",
+            "m: Electron spin and spin quantum number"
+          ]
+        },
+        {
+          "n": "Electronic Configuration",
+          "e": "b",
+          "subs": [
+            "b: Aufbau principle",
+            "b: Pauli's exclusion principle and Hund's rule",
+            "m: Electronic configuration of elements and extra stability of half-filled and completely filled orbitals"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Chemical Bonding and Molecular Structure",
+      "unit": "Unit 3 (Physical)",
+      "srcJM": "Unit 3: Chemical Bonding and Molecular Structure",
+      "srcJA": "Chemical Bonding and Molecular Structure",
+      "topics": [
+        {
+          "n": "Ionic Bonding",
+          "e": "m",
+          "subs": [
+            "m: Kossel-Lewis approach to chemical bond formation, concept of ionic and covalent bonds",
+            "m: Formation of ionic bonds, factors affecting formation of ionic bonds",
+            "m: Calculation of lattice enthalpy"
+          ]
+        },
+        {
+          "n": "Covalent Bonding, Electronegativity and Dipole Moment",
+          "e": "b",
+          "subs": [
+            "b: Concept of electronegativity",
+            "m: Fajan's rule",
+            "b: Dipole moment, polarity in molecules",
+            "a: Orbital overlap and covalent bond"
+          ]
+        },
+        {
+          "n": "VSEPR Theory and Shapes of Molecules",
+          "e": "b",
+          "subs": [
+            "m: Valence Shell Electron Pair Repulsion (VSEPR) theory and shapes of simple molecules",
+            "a: VSEPR model and shapes of molecules (linear, angular, triangular, square planar, pyramidal, square pyramidal, trigonal bipyramidal, tetrahedral and octahedral)"
+          ]
+        },
+        {
+          "n": "Valence Bond Theory and Hybridisation",
+          "e": "b",
+          "subs": [
+            "m: Valence bond theory - important features",
+            "m: Concept of hybridization involving s, p and d orbitals",
+            "m: Resonance",
+            "a: Hybridisation involving s, p and d orbitals only"
+          ]
+        },
+        {
+          "n": "Molecular Orbital Theory",
+          "e": "b",
+          "subs": [
+            "m: Molecular orbital theory - important features, LCAOs, types of molecular orbitals (bonding, antibonding)",
+            "m: Sigma and pi bonds",
+            "m: Molecular orbital electronic configurations of homonuclear diatomic molecules",
+            "m: Concept of bond order, bond length and bond energy",
+            "a: Molecular orbital energy diagrams for homonuclear diatomic species (up to Ne2)"
+          ]
+        },
+        {
+          "n": "Metallic Bonding and Hydrogen Bonding",
+          "e": "b",
+          "subs": [
+            "m: Elementary idea of metallic bonding",
+            "b: Hydrogen bonding and its applications"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "States of Matter: Gases and Liquids",
+      "unit": "Advanced only",
+      "srcJM": "Not part of the JEE Main 2026 syllabus",
+      "srcJA": "States of Matter: Gases and Liquids",
+      "topics": [
+        {
+          "n": "Gas Laws and Ideal Gas Equation",
+          "e": "a",
+          "subs": [
+            "a: Gas laws and ideal gas equation",
+            "a: Absolute scale of temperature",
+            "a: Law of partial pressures",
+            "a: Diffusion of gases"
+          ]
+        },
+        {
+          "n": "Deviation from Ideality and Kinetic Theory",
+          "e": "a",
+          "subs": [
+            "a: Deviation from ideality, van der Waals equation",
+            "a: Kinetic theory of gases: average, root mean square and most probable velocities and their relation with temperature"
+          ]
+        },
+        {
+          "n": "Intermolecular Interactions and Liquids",
+          "e": "a",
+          "subs": [
+            "a: Intermolecular interactions: types, distance dependence and their effect on properties",
+            "a: Liquids: vapour pressure, surface tension, viscosity"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Chemical Thermodynamics",
+      "unit": "Unit 4 (Physical)",
+      "srcJM": "Unit 4: Chemical Thermodynamics",
+      "srcJA": "Chemical Thermodynamics",
+      "topics": [
+        {
+          "n": "Fundamentals of Thermodynamics",
+          "e": "b",
+          "subs": [
+            "b: System and surroundings",
+            "b: Extensive and intensive properties",
+            "b: State functions",
+            "m: Types of processes",
+            "m: Entropy",
+            "a: Internal energy, work (pressure-volume only) and heat"
+          ]
+        },
+        {
+          "n": "First Law of Thermodynamics and Enthalpy",
+          "e": "b",
+          "subs": [
+            "b: First law of thermodynamics",
+            "b: Concept of work, heat, internal energy and enthalpy",
+            "b: Heat capacity, molar heat capacity",
+            "b: Hess's law of constant heat summation",
+            "a: Standard state, Hess's law",
+            "a: Enthalpy of reaction, fusion, vaporization and lattice enthalpy"
+          ]
+        },
+        {
+          "n": "Enthalpies of Various Processes",
+          "e": "m",
+          "subs": [
+            "m: Enthalpies of bond dissociation, combustion, formation, atomization, sublimation",
+            "m: Enthalpy of phase transition, hydration, ionization and solution"
+          ]
+        },
+        {
+          "n": "Second Law and Spontaneity",
+          "e": "b",
+          "subs": [
+            "b: Second law of thermodynamics, spontaneity of processes",
+            "m: Delta S of the universe and Delta G of the system as criteria for spontaneity",
+            "b: Gibbs energy and criteria of equilibrium and spontaneity",
+            "m: Standard Gibbs energy change and equilibrium constant",
+            "m: Entropy"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Solutions",
+      "unit": "Unit 5 (Physical)",
+      "srcJM": "Unit 5: Solutions",
+      "srcJA": "Solutions",
+      "topics": [
+        {
+          "n": "Concentration of Solutions and Vapour Pressure",
+          "e": "b",
+          "subs": [
+            "m: Different methods of expressing concentration: molality, molarity, mole fraction, percentage (by volume and mass)",
+            "b: Vapour pressure of solutions and Raoult's law",
+            "b: Ideal and non-ideal solutions, vapour pressure-composition plots",
+            "a: Raoult's law, ideal solutions"
+          ]
+        },
+        {
+          "n": "Colligative Properties",
+          "e": "b",
+          "subs": [
+            "b: Relative lowering of vapour pressure",
+            "b: Depression of freezing point",
+            "b: Elevation of boiling point",
+            "b: Osmotic pressure",
+            "b: Determination of molecular mass using colligative properties",
+            "a: Colligative properties: lowering of vapour pressure, elevation of boiling point, depression of freezing point and osmotic pressure"
+          ]
+        },
+        {
+          "n": "Abnormal Molar Mass and van't Hoff Factor",
+          "e": "b",
+          "subs": [
+            "m: Abnormal value of molar mass",
+            "b: van't Hoff factor and its significance"
+          ]
+        },
+        {
+          "n": "Henry's Law",
+          "e": "b",
+          "subs": ["b: Henry's law"]
+        }
+      ]
+    },
+    {
+      "n": "Equilibrium",
+      "unit": "Unit 6 (Physical)",
+      "srcJM": "Unit 6: Equilibrium",
+      "srcJA": "Chemical and Ionic Equilibrium",
+      "topics": [
+        {
+          "n": "Physical Equilibria and Henry's Law",
+          "e": "m",
+          "subs": [
+            "m: Meaning of equilibrium, concept of dynamic equilibrium",
+            "m: Equilibria involving physical processes: solid-liquid, liquid-gas, gas-gas and solid-gas equilibria",
+            "m: Henry's law",
+            "m: General characteristics of equilibria involving physical processes"
+          ]
+        },
+        {
+          "n": "Chemical Equilibrium and Le Chatelier's Principle",
+          "e": "b",
+          "subs": [
+            "b: Law of chemical equilibrium / law of mass action",
+            "b: Equilibrium constants (Kp and Kc) and their significance",
+            "b: Significance of Delta G and Delta G-zero in chemical equilibrium",
+            "b: Factors affecting equilibrium: concentration, pressure, temperature, effect of catalyst",
+            "b: Le Chatelier's principle",
+            "a: Reaction quotient"
+          ]
+        },
+        {
+          "n": "Ionic Equilibrium: Acids and Bases",
+          "e": "b",
+          "subs": [
+            "b: Weak and strong electrolytes, ionization of electrolytes",
+            "m: Various concepts of acids and bases (Arrhenius, Bronsted-Lowry and Lewis)",
+            "a: Acids and bases (Bronsted and Lewis concepts)",
+            "b: Acid-base equilibria (including multistage ionization) and ionization constants",
+            "b: Ionization of water, pH scale",
+            "b: pH and buffer solutions"
+          ]
+        },
+        {
+          "n": "Ionic Equilibrium: Solubility and Hydrolysis",
+          "e": "b",
+          "subs": [
+            "b: Common ion effect",
+            "b: Hydrolysis of salts and pH of their solutions",
+            "b: Solubility of sparingly soluble salts and solubility products",
+            "a: Solubility product and its applications"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Redox Reactions and Electrochemistry",
+      "unit": "Unit 7 (Physical)",
+      "srcJM": "Unit 7: Redox Reactions and Electrochemistry",
+      "srcJA": "Electrochemistry",
+      "topics": [
+        {
+          "n": "Redox Reactions and Oxidation Number",
+          "e": "b",
+          "subs": [
+            "b: Electronic concepts of oxidation and reduction",
+            "b: Redox reactions, oxidation number",
+            "b: Rules for assigning oxidation number",
+            "b: Balancing of redox reactions"
+          ]
+        },
+        {
+          "n": "Conductance of Electrolytic Solutions",
+          "e": "b",
+          "subs": [
+            "b: Electrolytic and metallic conduction",
+            "b: Conductance in electrolytic solutions",
+            "b: Molar conductivities and their variation with concentration",
+            "b: Kohlrausch's law and its applications",
+            "a: Specific, equivalent and molar conductivity"
+          ]
+        },
+        {
+          "n": "Electrochemical Cells and Nernst Equation",
+          "e": "b",
+          "subs": [
+            "b: Electrolytic and galvanic cells",
+            "b: Different types of electrodes",
+            "b: Electrode potentials including standard electrode potential",
+            "b: Half-cell and cell reactions",
+            "b: emf of a galvanic cell and its measurement",
+            "b: Nernst equation and its applications",
+            "m: Relationship between cell potential and Gibbs energy change",
+            "a: Electrochemical work, electrochemical series"
+          ]
+        },
+        {
+          "n": "Faraday's Laws, Batteries and Corrosion",
+          "e": "b",
+          "subs": [
+            "m: Dry cell and lead accumulator",
+            "b: Fuel cells",
+            "a: Faraday's laws of electrolysis",
+            "a: Batteries: primary and secondary",
+            "a: Corrosion"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Chemical Kinetics",
+      "unit": "Unit 8 (Physical)",
+      "srcJM": "Unit 8: Chemical Kinetics",
+      "srcJA": "Chemical Kinetics",
+      "topics": [
+        {
+          "n": "Rate of Reaction and Rate Law",
+          "e": "b",
+          "subs": [
+            "b: Rate of a chemical reaction",
+            "b: Factors affecting the rate of reactions: concentration, temperature, pressure and catalyst",
+            "m: Elementary and complex reactions",
+            "b: Order and molecularity of reactions",
+            "b: Rate law, rate constant and its units"
+          ]
+        },
+        {
+          "n": "Integrated Rate Laws and Half-life",
+          "e": "b",
+          "subs": [
+            "b: Differential and integral forms of zero and first-order reactions, their characteristics and half-lives",
+            "a: Rate constant and half-life"
+          ]
+        },
+        {
+          "n": "Temperature Dependence and Arrhenius Theory",
+          "e": "b",
+          "subs": [
+            "m: Effect of temperature on the rate of reactions, Arrhenius theory, activation energy and its calculation",
+            "m: Collision theory of bi-molecular gaseous reactions (no derivation)",
+            "a: Temperature dependence of rate constant (Arrhenius equation and activation energy)"
+          ]
+        },
+        {
+          "n": "Catalysis",
+          "e": "a",
+          "subs": [
+            "a: Homogeneous and heterogeneous catalysis",
+            "a: Activity and selectivity of solid catalysts",
+            "a: Enzyme catalysis and its mechanism"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Solid State",
+      "unit": "Advanced only",
+      "srcJM": "Not part of the JEE Main 2026 syllabus",
+      "srcJA": "Solid State",
+      "topics": [
+        {
+          "n": "Classification and Crystal Systems",
+          "e": "a",
+          "subs": [
+            "a: Classification of solids, crystalline state",
+            "a: Seven crystal systems (cell parameters a, b, c, alpha, beta, gamma)"
+          ]
+        },
+        {
+          "n": "Close Packing and Lattices",
+          "e": "a",
+          "subs": [
+            "a: Close packed structure of solids (cubic and hexagonal)",
+            "a: Packing in fcc, bcc and hcp lattices",
+            "a: Nearest neighbours, ionic radii and radius ratio",
+            "a: Point defects"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Surface Chemistry",
+      "unit": "Advanced only",
+      "srcJM": "Not part of the JEE Main 2026 syllabus",
+      "srcJA": "Surface Chemistry",
+      "topics": [
+        {
+          "n": "Adsorption",
+          "e": "a",
+          "subs": [
+            "a: Elementary concepts of adsorption",
+            "a: Physisorption and chemisorption",
+            "a: Freundlich adsorption isotherm"
+          ]
+        },
+        {
+          "n": "Colloids, Emulsions and Micelles",
+          "e": "a",
+          "subs": [
+            "a: Colloids: types, methods of preparation and general properties",
+            "a: Elementary ideas of emulsions, surfactants and micelles (definitions and examples)"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Classification of Elements and Periodicity in Properties",
+      "unit": "Unit 9 (Inorganic)",
+      "srcJM": "Unit 9: Classification of Elements and Periodicity in Properties",
+      "srcJA": "Classification of Elements and Periodicity in Properties",
+      "topics": [
+        {
+          "n": "Periodic Table and Electronic Configuration",
+          "e": "b",
+          "subs": [
+            "b: Modern periodic law and present form of the periodic table",
+            "m: s, p, d and f block elements",
+            "b: Electronic configuration of elements"
+          ]
+        },
+        {
+          "n": "Periodic Trends",
+          "e": "b",
+          "subs": [
+            "b: Periodic trends in atomic and ionic radii",
+            "b: Ionization enthalpy",
+            "b: Electron gain enthalpy",
+            "b: Valence and oxidation states",
+            "b: Electronegativity",
+            "b: Chemical reactivity"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Hydrogen",
+      "unit": "Advanced only",
+      "srcJM": "Not part of the JEE Main 2026 syllabus",
+      "srcJA": "Hydrogen",
+      "topics": [
+        {
+          "n": "Position, Occurrence and Preparation of Hydrogen",
+          "e": "a",
+          "subs": [
+            "a: Position of hydrogen in the periodic table, occurrence and isotopes",
+            "a: Preparation, properties and uses of hydrogen",
+            "a: Hydrides - ionic, covalent and interstitial"
+          ]
+        },
+        {
+          "n": "Water, Heavy Water and Hydrogen Peroxide",
+          "e": "a",
+          "subs": [
+            "a: Physical and chemical properties of water and heavy water",
+            "a: Hydrogen peroxide - preparation, reactions, use and structure",
+            "a: Hydrogen as a fuel"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "s-Block Elements",
+      "unit": "Advanced only",
+      "srcJM": "Not part of the JEE Main 2026 syllabus",
+      "srcJA": "s-Block Elements",
+      "topics": [
+        {
+          "n": "Alkali and Alkaline Earth Metals",
+          "e": "a",
+          "subs": [
+            "a: Reactivity of alkali and alkaline earth metals towards air, water, dihydrogen, halogens and acids",
+            "a: Reducing nature including solutions in liquid ammonia",
+            "a: Uses of these elements",
+            "a: General characteristics of their oxides, hydroxides, halides and salts of oxoacids",
+            "a: Anomalous behaviour of lithium and beryllium"
+          ]
+        },
+        {
+          "n": "Important Compounds of Sodium and Calcium",
+          "e": "a",
+          "subs": [
+            "a: Preparation, properties and uses of sodium carbonate, sodium chloride, sodium hydroxide and sodium hydrogen carbonate",
+            "a: Preparation, properties and uses of calcium oxide, calcium hydroxide, calcium carbonate and calcium sulphate"
+          ]
+        }
+      ]
+    }
+  ]
+}

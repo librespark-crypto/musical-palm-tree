@@ -1,0 +1,605 @@
+Syllabus for JEE Main Paper 1 (B.E./B.Tech.)- Mathematics, Physics and Chemistry
+MATHEMATICS UNIT 1: SETS, RELATIONS AND FUNCTIONS:
+Sets and their representation; Union, intersection and complement of sets and
+their algebraic properties; Power set; Relations, type of relations, equivalence
+relations, functions; one-one, into and onto functions, the composition of
+functions.
+UNIT 2: COMPLEX NUMBERS AND QUADRATIC EQUATIONS:
+Complex numbers as ordered pairs of reals, Representation of complex numbers
+in the form a + ibandtheirrepresentationinaplane,Arganddiagram,algebraof
+complex numbers, modulus and argument (or amplitude) of a complex number,
+Quadratic equations in real and complex number systems and their solutions;
+Relations between roots and coefficients, nature of roots, the formation of
+quadraticequationswithgivenroots.
+UNIT3: MATRICES AND DETERMINANTS:
+Matrices, algebra of matrices, type of matrices, determinants and matrices of
+order two and three, evaluation of determinants, area of triangles using
+determinants; Adjoint and inverse of a square matrix; Test of consistency and
+solutionofsimultaneouslinearequationsintwoorthreevariablesusingmatrices.
+UNIT 4: PERMUTATIONS AND COMBINATIONS:
+Thefundamentalprincipleofcounting,permutationsandcombinations;Meaning
+of P(n, r)and C(n, r).Simpleapplications.
+UNIT 5: BINOMIAL THEOREM AND ITS SIMPLE APPLICATIONS:
+Binomialtheoremforapositiveintegralindex,generaltermandmiddletermand
+simpleapplications.
+UNIT 6: SEQUENCE AND SERIES:
+ArithmeticandGeometricprogressions,insertionofarithmetic,geometric means
+betweentwogivennumbers,RelationbetweenA.MandG.M.
+UNIT 7: LIMIT, CONTINUITY AND DIFFERENTIABILITY:
+Real–valued functions, algebra of functions; polynomial, rational, trigonometric,
+logarithmic and exponential functions; inverse functions. Graphs of simple
+functions. Limits, continuity and differentiability. Differentiation of the sum,
+difference, product and quotient of two functions. Differentiation of
+trigonometric, inverse trigonometric, logarithmic, exponential, composite and
+implicit functions; derivatives of order upto two, Applications of derivatives:
+Rate of change of quantities, monotonic-Increasing and decreasing functions,
+Maximaandminimaoffunctionsofonevariable.
+UNIT 8: INTEGRAL CALCULAS:
+Integral as an anti-derivative, Fundamental integrals involving algebraic,
+trigonometric,exponential and logarithmicfunctions. Integration bysubstitution,
+by parts and by partial fractions. Integration using trigonometric identities.
+Evaluationofsimpleintegralsofthetype
+Syllabus for JEE (Main) - 2026
+The fundamental theorem of calculus, properties of definite integrals.
+Evaluation of definite integrals, determining areas of the regions bounded by
+simplecurves bysimplecurvesinstandardforms.
+UNIT 9: DIFFRENTIAL EQUATIONS :
+Ordinarydifferentialequations,theirorderanddegree,thesolutionofdifferential
+equationbythemethodofseparationofvariables,solutionofahomogeneous
+andlineardifferentialequationofthetype
+??
+?? + ? ? ? = ?(?).
+UNIT 10: CO-ORDINATE GEOMETRY :
+Cartesiansystemofrectangularcoordinatesinaplane,distanceformula,sections
+formula, locus and its equation, the slope of a line, parallel and perpendicular
+lines,interceptsofalineontheco-ordinateaxis.
+Straight line: Various forms of equations of a line, intersection of lines, angles
+between two lines, conditions for concurrence of three lines, the distance of a
+pointform a line,co-ordinate of the centroid, orthocentre and circumcentre of a
+triangle.
+Circle, conic sections: A standard form of equations of a circle, the general
+form ofthe equation of a circle, itsradius and centre, equation of a circle when
+theendpointsofadiameteraregiven,pointsofintersectionofalineandacircle
+with the centre at the origin and sections of conics, equations of conic sections
+(parabola,ellipseandhyperbola)instandardforms.
+UNIT 11: THREE DIMENSIONAL GEOMETRY :
+Coordinates of a point in space, the distance between two points, section
+formula, direction ratios and direction cosines and the angle between two
+intersecting lines. Equation of a line; Skew lines, the shortest distance between
+themanditsequation.
+UNIT 12: VECTOR ALGEBRA :
+Vectors and scalars, the addition of vectors, components of a vector in two
+dimensionsandthree-dimensionalspaces,scalarandvectorproducts.
+UNIT 13: STATISTICS AND PROBABILITY :
+Measures of dispersion; calculation of mean, median, mode of grouped and
+ungrouped data, calculation of standard deviation, variance and mean
+deviationforgroupedandungroupeddata.Probability:Probabilityofanevent,
+additionandmultiplicationtheoremsofprobability,Baye'stheorem,probability
+distributionofarandomvariable.
+UNIT 14: TRIGONOMETRY :
+Trigonometrical identities and trigonometrical functions, inverse trigonometrical
+functionstheirproperties.
+PHYSICS
+UNIT 1: Units and Measurements
+Unitsofmeasurements,Systemofunits,SIUnits,fundamentalandderivedunits,
+leastcount, significant figures,Errors inmeasurements. Dimensionsof Physics
+quantities,dimensionalanalysisanditsapplications.
+UNIT 2: Kinematics
+The frame of reference, motion in a straight line, speed and velocity, uniform
+and non-uniform motion, average speed and instantaneous velocity, uniformly
+accelerated motion, velocity-time, position-time graph, relations for uniformly
+acceleratedmotion,relativevelocity.
+Motioninaplane,projectilemotion,uniformcircularmotion.
+UNIT 3: Laws of Motion
+Force and inertia, Newton’s first law of motion, momentum, Newton’s second
+Lawofmotion,impulse,Newton’sthirdLawofmotion.Lawofconservationof
+linearmomentumanditsapplications,equilibriumofconcurrentforces.
+StaticandKineticfriction,lawsoffriction,rollingfriction.
+Dynamics of uniform circular motion, centripetal force and its applications:
+vehicleonalevelcircularroad,vehicleonabankedroad.
+UNIT 4: Work, Energy and Power
+Workdonebyaconstantforceandavariableforce,kineticandpotentialenergies,
+work-energytheorem,power.
+The potential energy of a spring, conservation of mechanical energy,
+conservative and non- conservative forces, motion in a vertical circle. Elastic
+andinelasticcollisionsinoneandtwodimensions.
+UNIT 5: Rotational Motion
+Centre of mass of a two-particle system, centre of mass of a rigid body. Basic
+concepts of rotational motion, moment of a force, torque, angular momentum,
+conservationofangularmomentumanditsapplications.
+The moment of inertia, the radius of gyration, values of moments of inertia for
+simple geometrical objects, parallel and perpendicular axes theorems and their
+applications. Equilibrium of rigid bodies, rigid body rotation and equations of
+rotationalmotion,comparisonoflinearandrotationalmotions.
+UNIT 6: Gravitation
+The universal law of gravitation. Acceleration due to gravity and its variation
+withaltitudeanddepth.Kepler’slawofplanetarymotion.Gravitationalpotential
+energy, gravitational potential. Escape velocity, motion of a satellite, orbital
+velocity,timeperiodandenergyofsatellite.
+UNIT 7: Properties of Solids and Liquids
+Elastic behaviour, stress-strain relationship, Hooke's Law, Young's modulus,
+bulkmodulusandmodulusofrigidity.
+Syllabus for JEE (Main) - 2026
+Pressureduetoafluidcolumn,Pascal'slawanditsapplications,effectofgravity
+on fluid pressure, viscosity, Stoke’s law, terminal velocity, streamline and
+turbulentflow,criticalvelocity,Bernoulli'sprincipleanditsapplications.
+Surfaceenergyandsurfacetension,angleofcontact,excessofpressureacrossa
+curvedsurface,applicationofsurfacetension:drops,bubblesandcapillaryrise.
+Heat, temperature, thermal expansion, specific heat capacity, calorimetry,
+changeofstate,latentheat.Heattransfer:conduction,convectionandradiation.
+UNIT 8: Thermodynamics
+Thermal equilibrium and the concept of temperature, zeroth law of
+thermodynamics, heat, work and internal energy. The first law of
+thermodynamics, isothermal and adiabatic processes. The second law of
+thermodynamics:reversibleandirreversibleprocesses.
+UNIT 9: Kinetic Theory of Gases
+Equation of state of a perfect gas, work done on compressing a gas, kinetic
+theory of gases: assumptions,the concept of pressure, kinetic interpretation of
+temperature, RMS speed of gas molecules, degrees of freedom, law of
+equipartition of energy and applications to specific heat capacities of gases,
+meanfreepath,Avogadro'snumber.
+UNIT 10: Oscillations and Waves
+Oscillations and periodic motion: time period, frequency, displacement as a
+function of time, periodic functions. Simple harmonic motion (S.H.M.) and its
+equation, phase, oscillations of a spring: restoring force and force constant,
+energy in S.H.M.: kinetic and potential energies, simple pendulum: derivation
+ofexpressionforitstimeperiod.
+Wave motion, longitudinal and transverse waves, speed of the travelling wave,
+displacement relation for a progressive wave, principle of superposition of
+waves, reflection of waves, standing waves in strings and organ pipes,
+fundamentalmodeandharmonics,beats.
+UNIT 11: Electrostatics
+Electric charges: conservation of charge, Coulomb's law forces between two
+point charges, forces between multiple charges, superposition principle and
+continuouschargedistribution.
+Electric field: electric field due to a point charge, electric field lines, electric
+dipole, electric field due to a dipole, torque on a dipole in a uniform electric
+field.
+Electricflux,Gauss'slawanditsapplicationstofindfieldduetoinfinitelylong
+uniformly charged straight wire, uniformly charged infinite plane sheet and
+uniformlychargedthinsphericalshell.
+Electric potential and its calculation for a point charge, electric dipole and
+system of charges, potential difference, equipotential surfaces, electrical
+potential energy of a system of two point charges and of electric dipole in an
+electrostaticfield.
+Conductors and insulators, dielectrics and electric polarization, capacitors and
+capacitance, thecombinationofcapacitorsinseriesandparallelandcapacitance
+of a parallel plate capacitor with and without dielectric medium between the
+plates,energystoredinacapacitor.
+UNIT 12: Current Electricity
+Electric current: drift velocity, mobility and their relation with electric current,
+Ohm's law, electrical resistance, I-V characteristics of Ohmic and non-ohmic
+conductors,electrical energy and power, electrical resistivity and conductivity,
+series and parallel combinations of resistors, temperature dependence of
+resistance.
+Internalresistance,potentialdifferenceandemfofacell,acombinationofcells
+inseriesandparallel.
+Kirchhoff’slawsandtheirapplications,Wheatstonebridge,MetreBridge.
+UNIT 13: Magnetic Effects of Current and Magnetism
+Biot - Savart law and its application to the current carrying circular loop,
+Ampere's law and its applications to infinitely long current carrying straight
+wireandsolenoid.
+Force on a moving charge in uniform magnetic and electric fields, force on a
+current-carrying conductor in a uniform magnetic field, the force between two
+parallel currents carrying conductors-definition of ampere, torque experienced
+by a current loop in a uniform magnetic field: Moving coil galvanometer, its
+sensitivityandconversiontoammeterandvoltmeter.
+Currentloopasamagneticdipoleanditsmagneticdipolemoment,barmagnetas
+anequivalent solenoid, magnetic field lines, magnetic field due to a magnetic
+dipole (bar magnet) along its axis and perpendicular to its axis, torque on a
+magnetic dipole in a uniform magnetic field, para-, dia- and ferromagnetic
+substanceswithexamples,theeffectoftemperatureonmagneticproperties.
+UNIT 14: Electromagnetic Induction and Alternating Currents
+Electromagneticinduction:Faraday'slaw,inducedemfandcurrent,Lenz’slaw,
+eddycurrents,selfandmutualinductance.
+Alternating currents, peak and RMS value of alternating current/voltage,
+reactance and impedance, LCR series circuit, resonance, power in AC circuits,
+wattlesscurrent,ACgeneratorandtransformer.
+UNIT 15: Electromagnetic Waves
+Displacement current, electromagnetic waves and their characteristics,
+transverse nature of electromagnetic waves, electromagnetic spectrum (radio
+waves, microwaves, infrared, visible, ultraviolet, X-rays, Gamma rays),
+applicationsofelectromagneticwaves.
+UNIT 16: Optics
+Reflection of light, spherical mirrors, mirror formula. Refraction of light at
+plane and spherical surfaces, thin lens formula and lens maker formula, total
+internal reflection and its applications, magnification, power of a lens,
+combination of thin lenses in contact, refraction of light through a prism,
+microscope and astronomical telescope (reflecting and refracting ) and their
+magnifyingpowers.
+Wave optics: wavefront and Huygens ‘Principle, laws of reflection and
+refraction using Huygens principle. Interference: Young's double-slit
+experiment and expression for fringe width, coherent sources and sustained
+interferenceoflight.Diffractionduetoasingleslit,widthofcentralmaximum.
+Polarization: plane-polarized light, Brewster's law, uses of plane- polarized
+lightandPolaroid.
+UNIT 17: Dual Nature of Matter and Radiation
+Dual nature of radiation, Photoelectric effect, Hertz and Lenard's observations,
+Einstein's photoelectric equation, particle nature of light. Matter waves: wave
+natureofparticle,de-Broglierelation.
+UNIT 18: Atoms and Nuclei
+Alpha-particlescattering experiment, Rutherford's model of atom, Bohr model,
+energy levels, hydrogen spectrum. Composition and size of nucleus, atomic
+masses, mass-energy relation, mass defect, binding energy per nucleon and its
+variationwithmassnumber,nuclearfissionandfusion.
+UNIT 19: Electronic Devices
+Semiconductors, semiconductor diode: I-V characteristics in forward and
+reverse bias, diode as a rectifier; I-V characteristics of LED, the photodiode,
+solarcell,Zenerdiode,Zenerdiodeasavoltageregulator.
+Logicgates(OR.AND.NOT.NANDandNOR).
+UNIT 20: Experimental Skills
+Familiarity with the basic approach and observations of the experiments and
+activities:
+1. Vernier calipers -its use to measure the internal and external diameter and
+depthofavessel.
+2. Screwgauge-itsusetodeterminethethickness/diameterofthinsheet/wire.
+3. Simple pendulum-dissipation of energy by plotting a graph between the
+squareofamplitudeandtime.
+4. Metrescale-themassofagivenobjectbytheprincipleofmoments.
+5. Young'smodulusofelasticityofthematerialofametallicwire.
+6. Surfacetensionofwaterbycapillaryriseandeffectofdetergents,
+7. Co-efficient of viscosity of a given viscous liquid by measuring the
+terminalvelocityofagivensphericalbody.
+8. Speedofsoundinairatroomtemperatureusingaresonancetube,
+9. Specific heat capacity of a given (i) solid and (ii) liquid by method of
+mixtures.
+10. Theresistivityofthematerialofagivenwireusingametrebridge.
+11. TheresistanceofagivenwireusingOhm'slaw.
+12. Resistanceandfigureofmeritofagalvanometerbyhalfdeflectionmethod.
+13. Thefocallengthof
+(i) Convexmirror
+(ii) Concavemirrorand
+(iii)Convexlens,usingtheparallaxmethod.
+14. The plot of the angle of deviation vs angle of incidence for a triangular
+prism.
+15. Therefractiveindexofaglassslabusingatravellingmicroscope.
+16. Characteristiccurvesofap-njunctiondiodeinforwardandreversebias.
+17. Characteristic curves of a Zener diode and finding reverse breakdown
+voltage.
+18. Identification of diode, LED, resistor, a capacitor from a mixed collection
+ofsuchitems
+CHEMISTRY
+PHYSICAL CHEMISTRY
+UNIT I: SOME BASIC CONCEPTS IN CHEMISTRY
+Matteranditsnature,Dalton'satomictheory,Conceptofatom,molecule,elementandcompound,Lawsof
+chemicalcombination,Atomicandmolecularmasses,moleconcept, molarmass,percentagecomposition,
+empiricalandmolecularformulae,Chemicalequationsandstoichiometry.
+UNIT 2: ATOMIC STRUCTURE
+Natureofelectromagneticradiation,photoelectric effect,spectrumofthehydrogenatom, Bohrmodelofa
+hydrogen atom - its postulates, derivation of the relations for the energy of the electron and radii of the
+different orbits, limitations of Bohr's model, dual nature of matter, de Broglie's relationship, Heisenberg
+uncertaintyprinciple,elementaryideasofquantummechanics,thequantummechanicalmodeloftheatom
+anditsimportantfeatures,conceptofatomicorbitalsasone-electronwave functions,variationof ?and ?
+2 with r for 1s and 2s orbitals, various quantum numbers (principal, angular momentum and magnetic
+quantumnumbers)andtheirsignificance, shapesof s, p and d - orbitals, electron spin andspin quantum
+number, rules for filling electrons in orbitals – Aufbau principle, Pauli's exclusion principle and Hund's
+rule,electronicconfigurationofelementsandextrastabilityofhalf-filledandcompletelyfilledorbitals.
+UNIT 3: CHEMICAL BONDING AND MOLECULAR STRUCTURE
+Kossel-Lewisapproach to chemical bond formation, the concept of ionic andcovalent bonds.
+Ionic Bonding: Formation of ionic bonds, factors affecting the formation of ionic bonds; calculation of
+latticeenthalpy.
+CovalentBonding:Conceptofelectronegativity,Fajan’srule,dipolemoment,ValenceShellElectronPair
+Repulsion(VSEPR)theoryandshapesofsimplemolecules.
+Quantum mechanical approach to covalent bonding: Valence bond theory - its important features, the
+conceptofhybridizationinvolvings,panddorbitals,resonance.
+Molecular Orbital Theory - Its important features, LCAOs, types of molecular orbitals (bonding,
+antibonding), sigma and pi-bonds, molecular orbital electronic configurations of homonuclear diatomic
+molecules,theconceptofbondorder,bondlengthandbondenergy.
+Elementary idea of metallicbonding, hydrogen bonding and its applications.
+UNIT 4: CHEMICAL THERMODYNAMICS
+Fundamentals of thermodynamics: System and surroundings, extensive and intensive properties, state
+functions,entropy,typesofprocesses.
+The first law of thermodynamics - Concept of work, heat, internal energy and enthalpy, heat capacity,
+molar heat capacity, Hess’s law of constant heat summation, Enthalpies of bond dissociation,
+combustion,formation,atomization,sublimation,phasetransition,hydration,ionizationandsolution.
+The second law of thermodynamics - Spontaneity of processes, ΔS of the universe and ΔG of the
+systemascriteriaforspontaneity. ΔG°(StandardGibbsenergychange)andequilibriumconstant.
+UNIT 5: SOLUTIONS
+Different methods for expressing the concentration of solution - molality, molarity, mole fraction,
+percentage(byvolumeandmassboth),thevapourpressureofsolutionsandRaoult'sLaw-Idealandnon-
+ideal solutions, vapour pressure - composition, plots for ideal and non- ideal solutions, Colligative
+properties of dilute solutions - a relative lowering of vapour pressure, depression of freezing point, the
+elevation of boiling point and osmotic pressure, determination of molecular mass using colligative
+properties,abnormalvalueofmolarmass,van’tHofffactoranditssignificance.
+UNIT 6: EQUILIBRIUM
+Meaning of equilibriumis the conceptof dynamicequilibrium.
+Equilibria involving physical processes: Solid-liquid, liquid-gas, gas-gas and solid-gas equilibria,
+Henry'slaw.Generalcharacteristicsofequilibriuminvolvingphysicalprocesses.
+Equilibrium involving chemical processes:Lawofchemicalequilibrium,equilibriumconstants(Kp and
+Kc) and their significance, the significance of ΔG and ΔG ° in chemical equilibrium, factors affecting
+equilibriumconcentration,pressure,temperature,theeffectofcatalyst,LeChatelier’sprinciple.
+Ionic equilibrium:Weakandstrongelectrolytes,ionizationof electrolytes,variousconcepts ofacidsand
+bases (Arrhenius, Bronsted - Lowry and Lewis) and their ionization, acid-base equilibria (including
+multistage ionization) and ionization constants, ionization of water, pH scale, common ion effect,
+hydrolysis of salts and pH of their solutions, the solubility of sparingly soluble salts, solubility products
+andbuffersolutions.
+UNIT 7: REDOX REACTIONS AND ELECTROCHEMISTRY
+Electronic concepts of oxidation and reduction, redox reactions, oxidation number, rules for assigning
+oxidationnumberandbalancingofredoxreactions.
+Electrolytic andmetallicconduction, conductancein electrolyticsolutions,molar conductivitiesandtheir
+variationwithconcentration,Kohlrausch’slawanditsapplications.
+Electrochemical cells - Electrolytic and Galvanic cells, different types of electrodes, electrode potentials
+including standard electrode potential, half-cell and cell reactions, emf of a Galvanic cell and its
+measurement, Nernst equation and its applications, relationship between cell potential and Gibbs' energy
+change,drycellandleadaccumulator,fuelcells.
+UNIT 8: CHEMICAL KINETICS
+Rate of a chemical reaction, factors affecting the rate of reactions: concentration, temperature, pressure
+and catalyst, elementary and complex reactions, order and molecularity of reactions, rate law, rate
+constant and its units, differential and integral forms of zero and first-order reactions, their
+characteristics and half-lives, the effect of temperature on the rate of reactions, Arrhenius theory,
+activationenergyanditscalculation,collisiontheoryofbi-moleculargaseousreactions(noderivation).
+INORGANIC CHEMISTRY
+UNIT 9: CLASSIFICATION OF ELEMENTS AND PERIODICITY IN PROPERTIES
+Modernperiodiclawandpresentformoftheperiodictable,s,p.dandfblockelements,periodictrendsin
+properties of elements atomic and ionic radii, ionization enthalpy, electron gain enthalpy, valence,
+oxidationstatesandchemicalreactivity.
+UNIT 10: p- BLOCK ELEMENTS
+Group -13 to Group 18 Elements
+General Introduction:Electronicconfigurationandgeneraltrendsinphysicalandchemicalproperties of
+elementsacrosstheperiodsanddownthegroups,uniquebehaviourofthefirstelementineachgroup.
+UNIT 11: d - and f- BLOCK ELEMENTS
+Transition Elements - General introduction, electronic configuration, occurrence and characteristics,
+general trends in properties of the first-row transition elements - physical properties, ionization enthalpy,
+oxidation states, atomic radii, colour, catalytic behaviour, magnetic properties, complex formation,
+interstitialcompounds,alloyformation,preparation,propertiesandusesof K2Cr2O7andKMnO4.
+Inner Transition Elements
+Lanthanoids - Electronic configuration, oxidation states and Lanthanoid contraction.
+Actinoids - Electronic configuration and oxidation states.
+UNIT 12: COORDINATION COMPOUNDS
+Introduction to coordination compounds. Werner's theory, ligands, coordination number, denticity,
+chelation, IUPAC nomenclature of mononuclear co-ordination compounds, isomerism, Bonding: Valence
+bond approach and basic ideas of Crystal field theory, colour and magnetic properties, importance of
+coordinationcompounds(inqualitativeanalysis, extractionofmetalsandinbiologicalsystems).
+ORGANIC CHEMISTRY
+UNIT 13: PURIFICATION AND CHARACTERISATION OF ORGANIC COMPOUNDS
+Purification - Crystallization, sublimation, distillation, differential extraction and chromatography -
+principlesandtheirapplications.
+Qualitative analysis - Detection of nitrogen, sulphur, phosphorus and halogens.
+Quantitative analysis (basic principles only) - Estimation of carbon, hydrogen, nitrogen, halogens,
+sulphurandphosphorus.
+Calculations of empirical formulae and molecular formulae, numerical problems in organic quantitative
+analysis,
+UNIT 14: SOME BASIC PRINCIPLES OF ORGANIC CHEMISTRY
+Tetravalency of carbon, shapes of simple molecules - hybridization (s and p): classification of organic
+compounds based on functional groups and those containing halogens, oxygen, nitrogen and sulphur,
+homologousseries:Isomerism-structuralandstereoisomerism.
+Nomenclature (Trivial and IUPAC)
+Covalent bond fission - Homolytic and heterolytic, free radicals, carbocations and carbanions, stability of
+carbocationsandfreeradicals,electrophilesandnucleophiles.
+Electronic displacement in a covalent bond
+- Inductive effect, electromericeffect, resonance and hyperconjugation.
+Common types of organic reactions- Substitution, addition, elimination and rearrangement.
+UNITS 15: HYDROCARBONS
+Classification,isomerism,IUPACnomenclature,generalmethodsofpreparation,propertiesandreactions.
+Alkanes - Conformations: Sawhorse and Newman projections (of ethane), mechanism of halogenation of
+alkanes.
+Alkenes - Geometrical isomerism, mechanism of electrophilic addition, addition of hydrogen, halogens,
+water,hydrogenhalides(Markownikoffsandperoxideeffect),Ozonolysisandpolymerization.
+Alkynes-Acidiccharacter,additionofhydrogen,halogens,waterandhydrogenhalides,polymerization.
+Aromatic hydrocarbons-Nomenclature,benzene-structureandaromaticity,mechanismofelectrophilic
+substitution,halogenation,nitration.
+Friedel-Craft's alkylation and acylation, directive influence of the functional group in mono- substituted
+benzene.
+UNIT 16: ORGANIC COMPOUNDS CONTAINING HALOGENS
+General methods of preparation, properties and reactions, nature of C-X bond, mechanisms of
+substitutionreactions.
+Uses,environmental effectsof chloroform, iodoform, freons and DDT.
+UNIT 17: ORGANIC COMPOUNDS CONTAINING OXYGEN
+General methods of preparation, properties, reactions and uses.
+ALCOHOLS, PHENOLS AND ETHERS
+Alcohols:Identificationofprimary,secondaryandtertiaryalcohols,mechanismofdehydration.
+Phenols: Acidic nature, electrophilic substitution reactions, halogenation, nitration and sulphonation,
+Reimer-Tiemannreaction.
+Ethers: Structure.
+Aldehyde and Ketones: Nature of carbonyl group, nucleophilic addition to >C=O group, relative
+reactivities of aldehydes and ketones, important reactions such as - Nucleophilic addition reactions
+(addition of HCN, NH3 and its derivatives), Grignard reagent, oxidation, reduction (Wolf Kishner and
+Clemmensen), the acidity of ? -hydrogen. Aldol condensation, Cannizzaro reaction, Haloform reaction,
+chemicalteststodistinguishbetweenaldehydesandketones.
+Carboxylic Acids:Acidic strength and factors affecting it.
+UNIT 18: ORGANIC COMPOUNDS CONTAINING NITROGEN
+General methods of preparation, properties, reactions and uses.
+Amines: Nomenclature, classification, structure, basic character and identification of primary, secondary
+andtertiaryaminesandtheirbasiccharacter.
+Diazonium Salts: Importance in syntheticorganic chemistry.
+UNIT 19: BIOMOLECULES
+General introduction and importance of biomolecules.
+CARBOHYDRATES – Classification, aldoses and ketoses, monosaccharides (glucose and fructose) and
+constituentmonosaccharidesofoligosaccharides(sucrose,lactoseandmaltose).
+PROTEINS - Elementary idea of ? -amino acids, peptide bond, polypeptides, proteins: primary,
+secondary,tertiaryandquaternarystructure(qualitativeideaonly),denaturationofproteins,enzymes.
+VITAMINS – Classification and functions.
+NUCLEIC ACIDS–ChemicalconstitutionofDNAandRNA,biologicalfunctionsofnucleicacids.
+Hormones (General introduction)
+UNIT 20: PRINCIPLES RELATED TO PRACTICAL CHEMISTRY
+Detection of extra elements (Nitrogen, sulphur, halogens) in organic compounds, detection of the
+followingfunctionalgroups,hydroxyl (alcoholic andphenolic),carbonyl (aldehyde andketones)carboxyl
+andaminogroupsinorganiccompounds.
+ Thechemistryinvolvedinthepreparationofthefollowing:
+Inorganiccompounds,Mohr’ssalt,potashalum.
+Organic compounds: Acetanilide, p-nitro acetanilide, aniline yellow, iodoform.
+ The chemistry involved in the titrimetric exercises – acids, bases and the use of indicators,
+oxalic-acidvsKMnO4,Mohr’ssaltvsKMnO4
+ Chemicalprinciplesinvolvedinthequalitativesaltanalysis:
+Cations–Pb2+,Cu2+,Al3+,Fe3+,Zn2+,Ni2+,Ca2+,Ba2+,Mg2+,NH4+
+Anions-CO32−,S2-,SO42−,NO3-,NO2-,Cl-,Br-, I-(Insolublesaltsexcluded).
+Chemical principles involved inthe following experiments:
+1. EnthalpyofsolutionofCuSO4
+2. Enthalpyofneutralizationofstrongacidandstrongbase.
+3. Preparationoflyophilicandlyophobicsols.
+4. Kineticstudyofthereactionofiodideionswithhydrogenperoxideatroomtemperature.
+Syllabus for JEE (Main) Paper 2A (B.Arch.) - Mathematics, Aptitude Test and Drawing Test
+Part - I MATHEMATICS
+UNIT 1: SETS, RELATIONS AND FUNCTIONS:
+Sets and their representation; Union, intersection and complement of sets and their algebraic properties;
+Power set; Relations, type of relations, equivalence relations, functions; one-one, into and onto functions,
+thecompositionoffunctions.
+UNIT 2: COMPLEX NUMBERS AND QUADRATIC EQUATIONS:
+Complex numbers as ordered pairs of reals, Representation of complex numbers in the form a + ib and
+their representation in a plane, Argand diagram, algebra of complex numbers, modulus and argument (or
+amplitude) of a complex number, Quadratic equations in real and complex number systems and their
+solutions; Relations between roots and coefficients, nature of roots, the formation of quadratic equations
+withgivenroots.
+UNIT3: MATRICES AND DETERMINANTS:
+Matrices, algebra of matrices, type of matrices, determinants and matrices of order two and three,
+evaluation of determinants, area of triangles using determinants; Adjoint and inverse of a square matrix;
+Testofconsistencyandsolutionofsimultaneouslinearequationsintwoorthreevariablesusingmatrices.
+UNIT 4: PERMUTATIONS AND COMBINATIONS:
+The fundamental principle of counting, permutations and combinations; Meaning of P(n, r) and C(n, r).
+Simpleapplications.
+UNIT 5: BINOMIAL THEOREM AND ITS SIMPLE APPLICATIONS:
+Binomialtheoremforapositiveintegralindex,generaltermandmiddletermandsimpleapplications.
+UNIT 6: SEQUENCE AND SERIES:
+Arithmetic and Geometric progressions, insertion of arithmetic, geometric means between two given
+numbers,RelationbetweenA.MandG.M.
+UNIT 7: LIMIT, CONTINUITY AND DIFFERENTIABILITY:
+Real–valued functions, algebra of functions; polynomial, rational, trigonometric, logarithmic and
+exponential functions; inverse functions. Graphs of simple functions. Limits, continuity and
+differentiability. Differentiation of the sum, difference, product and quotient of two functions.
+Differentiation of trigonometric, inverse trigonometric, logarithmic, exponential, composite and implicit
+functions; derivatives of order upto two, Applications of derivatives: Rate of change of quantities,
+monotonic-Increasinganddecreasingfunctions,Maximaandminimaoffunctionsofonevariable.
+UNIT 8: INTEGRAL CALCULAS:
+Integral as an anti-derivative, Fundamental integrals involving algebraic, trigonometric, exponential and
+logarithmic functions. Integration by substitution, by parts and by partial fractions. Integration using
+trigonometricidentities.
+Evaluationofsimpleintegralsofthetype
+The fundamental theorem of calculus, properties of definite integrals. Evaluation of definite integrals,
+determiningareasoftheregionsboundedbysimplecurvesinstandardforms.
+UNIT 9: DIFFRENTIAL EQUATIONS :
+Ordinarydifferentialequations,theirorder anddegree,thesolutionofdifferentialequationby the method
+ofseparationofvariables,solutionofahomogeneousandlineardifferentialequationofthetype
+??
+?? + ? ? ? = ?(?).
+UNIT 10: CO-ORDINATE GEOMETRY :
+Cartesian system of rectangular coordinates in a plane, distance formula, sections formula, locus and its
+equation,theslopeofaline,parallelandperpendicularlines,interceptsofalineontheco-ordinateaxis.
+Straight line: Various forms of equations of a line, intersection of lines, angles between two lines,
+conditions for concurrence of three lines, the distance of a point form a line, co-ordinate of the centroid,
+orthocentreandcircumcentreofatriangle.
+Circle, conic sections:Astandardformofequationsofacircle,thegeneralformoftheequationofacircle,
+itsradiusandcentre,equationofacirclewhentheendpointsofadiameteraregiven,pointsofintersection
+of a line and a circle with the centre at the origin and sections of conics, equations of conic sections
+(parabola,ellipseandhyperbola)instandardforms.
+UNIT 11: THREE DIMENSIONAL GEOMETRY :
+Coordinates of a point in space, the distance between two points, section formula, direction ratios and
+directioncosinesandtheanglebetweentwointersectinglines.Equationof aline;Skewlines,theshortest
+distancebetweenthemanditsequation.
+UNIT 12: VECTOR ALGEBRA :
+Vectors and scalars, the addition of vectors, components of a vector in two dimensions and three-
+dimensionalspaces,scalarandvectorproducts.
+UNIT 13: STATISTICS AND PROBABILITY :
+Measuresofdispersion;calculationofmean,median,modeofgroupedandungroupeddata,calculationof
+standard deviation, variance and mean deviation for grouped and ungrouped data. Probability: Probability
+ofanevent,additionandmultiplicationtheoremsofprobability,Baye'stheorem,probabilitydistributionofa
+randomvariable.
+UNIT 14: TRIGONOMETRY :
+Trigonometrical identities and trigonometrical functions, inverse trigonometrical functions and their
+properties.
+Part –II APTITUDE TEST
+UNIT - 1 Awarenessof persons: Buildings, Materials.
+Objects, Texture related to Architecture and Build-environment, Visualizing three- dimensional objects
+from two-dimensional drawings. Visualizing. Different sides of three- dimensional objects. Analytical
+ReasoningMentalAbility(Visual,NumericalandVerbal)
+UNIT – 2 Three dimensional- perception: Understanding and appreciation of scale and proportions of
+objects, building forms and elements, colour texture harmony and contrast Design and drawing of
+geometrical or abstract shapes and patterns in pencil. Transformation of forms both 2D and 3D union,
+subtraction rotation, development of surfaces and volumes, Generation of plans, elevations and 3D views
+ofobjects,creatingtwo-dimensionalandthree-dimensionalcompositionsusinggivenshapesandforms.
+Part – III DRAWING TEST
+Sketching of scenes and activities from memory of urbanscape (public space, market, festivals, street
+scenes, monuments, recreational spaces, etc.). landscape (riverfronts. Jungle. Gardens, trees. Plants, etc.)
+andrurallife.
+To be conductedina Drawing sheet.
+Note: Candidates are advised to bring pencils, own geometry box set, crasets and colour pencils and
+crayonsfortheDrawingTest.
+Syllabus for JEE (Main) Paper 2B (B.Planning) - Mathematics, Aptitude Test and Planning
+Part - I MATHEMATICS
+UNIT 1: SETS, RELATIONS AND FUNCTIONS:
+Sets and their representation; Union, intersection and complement of sets and their algebraic properties;
+Power set; Relations, type of relations, equivalence relations, functions; one-one, into and onto functions,
+thecompositionoffunctions.
+UNIT 2: COMPLEX NUMBERS AND QUADRATIC EQUATIONS:
+Complex numbers as ordered pairs of reals, Representation of complex numbers in the form a + ib and
+their representation in a plane, Argand diagram, algebra of complex numbers, modulus and argument (or
+amplitude) of a complex number, Quadratic equations in real and complex number systems and their
+solutions; Relations between roots and coefficients, nature of roots, the formation of quadratic equations
+withgivenroots.
+UNIT3: MATRICES AND DETERMINANTS:
+Matrices, algebra of matrices, type of matrices, determinants and matrices of order two and three,
+evaluation of determinants, area of triangles using determinants; Adjoint and inverse of a square matrix;
+Testofconsistencyandsolutionofsimultaneouslinearequationsintwoorthreevariablesusingmatrices.
+UNIT 4: PERMUTATIONS AND COMBINATIONS:
+The fundamental principle of counting, permutations and combinations; Meaning of P(n, r) and C(n, r),
+Simpleapplications.
+UNIT 5: BINOMIAL THEOREM AND ITS SIMPLE APPLICATIONS:
+Binomialtheoremforapositiveintegralindex,generaltermandmiddletermandsimpleapplications.
+UNIT 6: SEQUENCE AND SERIES:
+Arithmetic and Geometric progressions, insertion of arithmetic, geometric means between two given
+numbers,RelationbetweenA.MandG.M.
+UNIT 7: LIMIT, CONTINUITY AND DIFFERENTIABILITY:
+Real–valued functions, algebra of functions; polynomial, rational, trigonometric, logarithmic and
+exponential functions; inverse functions. Graphs of simple functions. Limits, continuity and
+differentiability. Differentiation of the sum, difference, product and quotient of two functions.
+Differentiation of trigonometric, inverse trigonometric, logarithmic, exponential, composite and implicit
+functions; derivatives of order upto two, Applications of derivatives: Rate of change of quantities,
+monotonic-Increasinganddecreasingfunctions,Maximaandminimaoffunctionsofonevariable.
+UNIT 8: INTEGRAL CALCULAS:
+Integral as an anti-derivative, Fundamental integrals involving algebraic, trigonometric, exponential and
+logarithmic functions. Integration by substitution, by parts and by partial fractions. Integration using
+trigonometricidentities.
+Evaluationofsimpleintegralsofthetype
+The fundamental theorem of calculus, properties of definite integrals. Evaluation of definite integrals,
+determiningareasoftheregionsboundedbysimplecurves.
+UNIT 9: DIFFRENTIAL EQUATIONS :
+Ordinary differential equations, their order and degree, the solution of differential equation by the method of
+separationofvariables,solutionofahomogeneousandlineardifferentialequationofthetype
+??
+?? + ? ? ? = ?(?).
+UNIT 10: CO-ORDINATE GEOMETRY :
+Cartesian system of rectangular coordinates in a plane, distance formula, sections formula, locus and its
+equation,theslopeofaline,parallelandperpendicularlines,interceptsofalineontheco-ordinateaxis.
+Straight line:Variousformsofequationsofaline,intersectionoflines,anglesbetweentwolines,conditionsfor
+concurrence of three lines, the distance of a point form a line, co-ordinate of the centroid, orthocentre and
+circumcentreofatriangle.
+Circle, conic sections:Astandardformofequationsofacircle,thegeneralformoftheequationofacircle,its
+radius and centre, equation of a circle when the endpoints of a diameter are given, points of intersection of a
+line and a circle with the centre at the origin and sections of conics, equations of conic sections (parabola,
+ellipseandhyperbola)instandardforms.
+UNIT 11: THREE DIMENSIONAL GEOMETRY :
+Coordinates of a point in space, the distance between two points, section formula, direction ratios and
+direction cosines and the angle between two intersecting lines. Equation of a line; Skew lines, the shortest
+distancebetweenthemanditsequation.
+UNIT 12: VECTOR ALGEBRA :
+Vectors and scalars, the addition of vectors, components of a vector in two dimensions and three-dimensional
+spaces,scalarandvectorproducts.
+UNIT 13: STATISTICS AND PROBABILITY :
+Measures of dispersion; calculation of mean, median, mode of grouped and ungrouped data, calculation of
+standard deviation, variance and mean deviation for grouped and ungrouped data.Probability:Probabilityofan
+event, addition and multiplicationtheorems of probability, Baye's theorem, probability distribution of a random
+variable.
+UNIT 14: TRIGONOMETRY :
+Trigonometricalidentitiesandtrigonometricalfunctions,inversetrigonometricalfunctionsandtheirproperties.
+Part –II APTITUDE TEST
+UNIT - 1 Awarenessofpersons,Buildings,Materials,ObjectsandTexturesrelatedtoArchitectureandBuild-
+environment,Visualizingthree-dimensional objectsfromtwo-dimensionaldrawings.Visualizingdifferentsides
+ofthree-dimensionalobjects,AnalyticalReasoningMentalAbility(Visual,NumericalandVerbal)
+UNIT – 2Threedimensional-perception:Understandingandappreciationofscaleand proportions ofobjects,
+building forms and elements, colour texture harmony and contrast Design and drawing of geometrical or
+abstract shapes and patterns in pencil. Transformation of forms both 2D and 3D union, subtraction rotation,
+development of surfaces and volumes, Generation of plans, elevations and 3D views of objects, creating two-
+dimensionalandthree-dimensionalcompositionsusinggivenshapesandforms.
+Part – III PLANNING
+UNIT-1 GENERAL AWARENESS.
+General knowledge questions and knowledge about prominent cities, development issues, government
+programsetc.
+UNIT-2 SOCIAL SCIENCES
+Theideaofnationalism,nationalisminIndia,pre-modernworld,19th-centuryglobaleconomy,colonialismand
+colonial cities, industrialization, resources and development, types of resources, agriculture, water, mineral
+resources,industries,nationaleconomy;Human Settlements.
+Power-sharing, federalism, political parties, democracy, the constitutionof India.
+Economic development- economic sectors, globalization, the concept of development, poverty; Population
+structure,socialexclusionandinequality,urbanization,ruraldevelopment,colonialcities.
+UNIT-3 THINKING SKILLS
+Comprehension (unseen passage); mapreadingskills, scale, distance, direction, area etc.;criticalreasoning;
+understandingofcharts,graphsandtables;basicconceptsofstatisticsandquantitativereasoning.

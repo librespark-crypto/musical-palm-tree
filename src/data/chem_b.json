@@ -1,0 +1,655 @@
+{
+  "subject": "Chemistry",
+  "code": "chem",
+  "part": 2,
+  "chapters": [
+    {
+      "n": "p-Block Elements",
+      "unit": "Unit 10 (Inorganic)",
+      "srcJM": "Unit 10: p-Block Elements (Groups 13 to 18, general trends)",
+      "srcJA": "p-Block Elements (group-wise detail)",
+      "topics": [
+        {
+          "n": "General Trends in p-Block",
+          "e": "b",
+          "subs": [
+            "m: General introduction: electronic configuration",
+            "m: General trends in physical and chemical properties across periods and down groups",
+            "m: Unique behaviour of the first element in each group",
+            "a: Oxidation state and trends in chemical reactivity of elements of groups 13-17",
+            "a: Anomalous properties of boron, carbon, nitrogen, oxygen and fluorine with respect to other elements in their groups"
+          ]
+        },
+        {
+          "n": "Group 13 Elements (Boron Family)",
+          "e": "a",
+          "subs": [
+            "a: Reactivity towards acids, alkalis and halogens",
+            "a: Preparation, properties and uses of borax, orthoboric acid, diborane, boron trifluoride, aluminium chloride and alums",
+            "a: Uses of boron and aluminium"
+          ]
+        },
+        {
+          "n": "Group 14 Elements (Carbon Family)",
+          "e": "a",
+          "subs": [
+            "a: Reactivity towards water and halogen",
+            "a: Allotropes of carbon and uses of carbon",
+            "a: Preparation, properties and uses of carbon monoxide, carbon dioxide, silicon dioxide, silicones, silicates and zeolites"
+          ]
+        },
+        {
+          "n": "Group 15 Elements (Nitrogen Family)",
+          "e": "a",
+          "subs": [
+            "a: Reactivity towards hydrogen, oxygen and halogen",
+            "a: Allotropes of phosphorus",
+            "a: Preparation, properties and uses of dinitrogen, ammonia, nitric acid, phosphine, phosphorus trichloride and phosphorus pentachloride",
+            "a: Oxides of nitrogen and oxoacids of phosphorus"
+          ]
+        },
+        {
+          "n": "Group 16 Elements (Oxygen Family)",
+          "e": "a",
+          "subs": [
+            "a: Reactivity towards hydrogen, oxygen and halogen",
+            "a: Simple oxides, allotropes of sulphur",
+            "a: Preparation/manufacture, properties and uses of dioxygen, ozone, sulphur dioxide and sulfuric acid",
+            "a: Oxoacids of sulphur"
+          ]
+        },
+        {
+          "n": "Group 17 Elements (Halogens)",
+          "e": "a",
+          "subs": [
+            "a: Reactivity towards hydrogen, oxygen and metals",
+            "a: Preparation/manufacture, properties and uses of chlorine, hydrogen chloride and interhalogen compounds",
+            "a: Oxoacids of halogens, bleaching powder"
+          ]
+        },
+        {
+          "n": "Group 18 Elements (Noble Gases)",
+          "e": "a",
+          "subs": [
+            "a: Chemical properties and uses",
+            "a: Compounds of xenon with fluorine and oxygen"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "d- and f-Block Elements",
+      "unit": "Unit 11 (Inorganic)",
+      "srcJM": "Unit 11: d- and f-Block Elements",
+      "srcJA": "d-Block Elements, f-Block Elements",
+      "topics": [
+        {
+          "n": "Transition Elements: General Trends",
+          "e": "b",
+          "subs": [
+            "b: General introduction, electronic configuration, occurrence and characteristics",
+            "b: General trends in properties of first-row transition elements",
+            "m: Physical properties, ionization enthalpy, oxidation states, atomic radii",
+            "m: Colour, catalytic behaviour, magnetic properties",
+            "m: Complex formation, interstitial compounds, alloy formation",
+            "a: Oxidation states and their stability",
+            "a: Standard electrode potentials, interstitial compounds, alloys, catalytic properties and applications"
+          ]
+        },
+        {
+          "n": "Important Compounds: K2Cr2O7 and KMnO4",
+          "e": "b",
+          "subs": [
+            "m: Preparation, properties and uses of K2Cr2O7 and KMnO4",
+            "a: Preparation, structure and reactions of oxoanions of chromium and manganese"
+          ]
+        },
+        {
+          "n": "Lanthanoids",
+          "e": "b",
+          "subs": [
+            "b: Electronic configuration and oxidation states of lanthanoids",
+            "b: Lanthanoid contraction",
+            "m: Inner transition elements",
+            "a: General characteristics of lanthanoids"
+          ]
+        },
+        {
+          "n": "Actinoids",
+          "e": "b",
+          "subs": [
+            "b: Electronic configuration and oxidation states of actinoids",
+            "a: Actinoid contraction and general characteristics"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Coordination Compounds",
+      "unit": "Unit 12 (Inorganic)",
+      "srcJM": "Unit 12: Coordination Compounds",
+      "srcJA": "Coordination Compounds",
+      "topics": [
+        {
+          "n": "Werner's Theory, Ligands and Nomenclature",
+          "e": "b",
+          "subs": [
+            "b: Introduction to coordination compounds, Werner's theory",
+            "b: Ligands, coordination number, denticity, chelation",
+            "b: IUPAC nomenclature of mononuclear coordination compounds",
+            "m: Isomerism",
+            "a: Nomenclature, cis-trans and ionization isomerism"
+          ]
+        },
+        {
+          "n": "Bonding: VBT and CFT",
+          "e": "b",
+          "subs": [
+            "m: Valence bond approach",
+            "m: Basic ideas of crystal field theory",
+            "a: Hybridisation and geometries (linear, tetrahedral, square planar and octahedral) of mononuclear coordination compounds",
+            "a: Bonding: VBT and CFT (octahedral and tetrahedral fields)"
+          ]
+        },
+        {
+          "n": "Magnetic Properties and Colour",
+          "e": "b",
+          "subs": [
+            "m: Colour and magnetic properties",
+            "a: Magnetic properties (spin-only) and colour of 3d-series coordination compounds",
+            "a: Ligands and spectrochemical series, stability",
+            "a: Metal carbonyls"
+          ]
+        },
+        {
+          "n": "Importance and Applications",
+          "e": "b",
+          "subs": [
+            "m: Importance of coordination compounds (qualitative analysis, extraction of metals, biological systems)",
+            "a: Importance and applications"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Isolation of Metals (Metallurgy)",
+      "unit": "Advanced only",
+      "srcJM": "Not part of the JEE Main 2026 syllabus",
+      "srcJA": "Isolation of Metals",
+      "topics": [
+        {
+          "n": "Ores, Concentration and Extraction",
+          "e": "a",
+          "subs": [
+            "a: Metal ores and their concentration",
+            "a: Extraction of crude metal from concentrated ores",
+            "a: Thermodynamic principles of metallurgy (iron, copper, zinc)",
+            "a: Electrochemical principles of metallurgy (aluminium)",
+            "a: Cyanide process (silver and gold)",
+            "a: Refining of metals"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Principles of Qualitative Analysis",
+      "unit": "Advanced only",
+      "srcJM": "Not part of the JEE Main 2026 syllabus",
+      "srcJA": "Principles of Qualitative Analysis",
+      "topics": [
+        {
+          "n": "Detection of Cations",
+          "e": "a",
+          "subs": [
+            "a: Groups I to V analysis",
+            "a: Cations: Ag+, Hg2+, Cu2+, Pb2+, Fe3+, Cr3+, Al3+, Ca2+, Ba2+, Zn2+, Mn2+ and Mg2+"
+          ]
+        },
+        {
+          "n": "Detection of Anions",
+          "e": "a",
+          "subs": [
+            "a: Nitrate and halides (excluding fluoride)",
+            "a: Carbonate, bicarbonate, sulphate and sulphide"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Environmental Chemistry",
+      "unit": "Advanced only",
+      "srcJM": "Not part of the JEE Main 2026 syllabus",
+      "srcJA": "Environmental Chemistry",
+      "topics": [
+        {
+          "n": "Pollution and Green Chemistry",
+          "e": "a",
+          "subs": [
+            "a: Atmospheric pollution, water pollution, soil pollution",
+            "a: Industrial waste",
+            "a: Strategies to control environmental pollution",
+            "a: Green chemistry"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Purification and Characterisation of Organic Compounds",
+      "unit": "Unit 13 (Organic)",
+      "srcJM": "Unit 13: Purification and Characterisation of Organic Compounds",
+      "srcJA": "Not part of the JEE Advanced 2026 syllabus",
+      "topics": [
+        {
+          "n": "Purification Techniques",
+          "e": "m",
+          "subs": [
+            "m: Crystallization, sublimation, distillation, differential extraction and chromatography - principles and applications"
+          ]
+        },
+        {
+          "n": "Qualitative and Quantitative Analysis",
+          "e": "m",
+          "subs": [
+            "m: Detection of nitrogen, sulphur, phosphorus and halogens",
+            "m: Estimation of carbon, hydrogen, nitrogen, halogens, sulphur and phosphorus (basic principles)",
+            "m: Calculations of empirical and molecular formulae",
+            "m: Numerical problems in organic quantitative analysis"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Some Basic Principles of Organic Chemistry",
+      "unit": "Unit 14 (Organic)",
+      "srcJM": "Unit 14: Some Basic Principles of Organic Chemistry",
+      "srcJA": "Basic Principles of Organic Chemistry",
+      "topics": [
+        {
+          "n": "Tetravalency, Hybridisation and Classification",
+          "e": "b",
+          "subs": [
+            "m: Tetravalency of carbon, shapes of simple molecules, hybridization (s and p)",
+            "m: Classification of organic compounds based on functional groups",
+            "a: Hybridisation of carbon, sigma and pi bonds, shapes of simple organic molecules"
+          ]
+        },
+        {
+          "n": "Nomenclature",
+          "e": "b",
+          "subs": [
+            "m: Nomenclature (trivial and IUPAC)",
+            "a: IUPAC nomenclature of organic molecules (hydrocarbons including simple cyclic hydrocarbons and their mono-functional and bi-functional derivatives)"
+          ]
+        },
+        {
+          "n": "Isomerism",
+          "e": "b",
+          "subs": [
+            "m: Isomerism - structural and stereoisomerism",
+            "m: Homologous series",
+            "a: Aromaticity, structural and geometrical isomerism",
+            "a: Stereoisomers and stereochemical relationship (enantiomers, diastereomers, meso) of compounds containing up to two asymmetric centres"
+          ]
+        },
+        {
+          "n": "Reactive Intermediates and Bond Fission",
+          "e": "b",
+          "subs": [
+            "m: Covalent bond fission - homolytic and heterolytic",
+            "m: Free radicals, carbocations and carbanions, stability of carbocations and free radicals",
+            "m: Electrophiles and nucleophiles",
+            "a: Reactive intermediates produced during homolytic and heterolytic bond cleavage",
+            "a: Formation, structure and stability of carbocations, carbanions and free radicals"
+          ]
+        },
+        {
+          "n": "Electronic Displacement Effects",
+          "e": "b",
+          "subs": [
+            "m: Inductive effect, electromeric effect, resonance and hyperconjugation",
+            "a: Hydrogen bonding effects, inductive, resonance and hyperconjugative effects",
+            "a: Acidity and basicity of organic compounds"
+          ]
+        },
+        {
+          "n": "Types of Organic Reactions and Isomer Counting",
+          "e": "b",
+          "subs": [
+            "m: Common types of organic reactions - substitution, addition, elimination and rearrangement",
+            "a: Determination of empirical and molecular formulae of simple compounds by combustion method"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Hydrocarbons",
+      "unit": "Unit 15 (Organic)",
+      "srcJM": "Unit 15: Hydrocarbons",
+      "srcJA": "Alkanes, Alkenes and Alkynes, Benzene",
+      "topics": [
+        {
+          "n": "Alkanes",
+          "e": "b",
+          "subs": [
+            "m: Classification, isomerism and IUPAC nomenclature",
+            "m: General methods of preparation, properties and reactions",
+            "m: Conformations: sawhorse and Newman projections (of ethane)",
+            "m: Mechanism of halogenation of alkanes",
+            "a: Homologous series, physical properties and effect of branching on them",
+            "a: Conformations of ethane and butane (Newman projections only)",
+            "a: Preparation from alkyl halides and aliphatic carboxylic acids",
+            "a: Reactions: combustion, halogenation (including allylic and benzylic halogenation) and oxidation"
+          ]
+        },
+        {
+          "n": "Alkenes",
+          "e": "b",
+          "subs": [
+            "m: Geometrical isomerism",
+            "m: Mechanism of electrophilic addition",
+            "m: Addition of hydrogen, halogens, water and hydrogen halides (Markownikoff's rule and peroxide effect)",
+            "m: Ozonolysis and polymerization",
+            "a: Physical properties (boiling points, density and dipole moments)",
+            "a: Preparation by elimination reactions",
+            "a: Acid catalysed hydration",
+            "a: Reactions of alkenes with KMnO4 and ozone",
+            "a: Reduction of alkenes and alkynes",
+            "a: Electrophilic addition reactions of alkenes with X2, HX, HOX",
+            "a: Effect of peroxide on addition reactions"
+          ]
+        },
+        {
+          "n": "Alkynes",
+          "e": "b",
+          "subs": [
+            "m: Acidic character",
+            "m: Addition of hydrogen, halogens, water and hydrogen halides",
+            "m: Polymerization",
+            "a: Metal acetylides",
+            "a: Cyclic polymerization reaction of alkynes"
+          ]
+        },
+        {
+          "n": "Aromatic Hydrocarbons and Benzene",
+          "e": "b",
+          "subs": [
+            "m: Nomenclature, structure and aromaticity of benzene",
+            "m: Mechanism of electrophilic substitution: halogenation, nitration",
+            "m: Friedel-Craft's alkylation and acylation",
+            "m: Directive influence of the functional group in mono-substituted benzene",
+            "a: Electrophilic substitution reactions: halogenation, nitration, sulphonation, Friedel-Crafts alkylation and acylation",
+            "a: Effect of directing groups (monosubstituted benzene) in these reactions"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Organic Compounds Containing Halogens",
+      "unit": "Unit 16 (Organic)",
+      "srcJM": "Unit 16: Organic Compounds Containing Halogens",
+      "srcJA": "Alkyl Halides, Haloarenes",
+      "topics": [
+        {
+          "n": "Haloalkanes (Alkyl Halides)",
+          "e": "b",
+          "subs": [
+            "m: General methods of preparation, properties and reactions",
+            "m: Nature of C-X bond",
+            "m: Mechanisms of substitution reactions",
+            "a: Rearrangement reactions of alkyl carbocation",
+            "a: Nucleophilic substitution reactions and their stereochemical aspects",
+            "a: Grignard reactions"
+          ]
+        },
+        {
+          "n": "Haloarenes",
+          "e": "b",
+          "subs": [
+            "m: General methods of preparation, properties and reactions",
+            "a: Reactions: Fittig and Wurtz-Fittig",
+            "a: Nucleophilic aromatic substitution in haloarenes and substituted haloarenes (excluding benzyne mechanism and cine substitution)"
+          ]
+        },
+        {
+          "n": "Haloform, Freons and DDT",
+          "e": "m",
+          "subs": [
+            "m: Uses and environmental effects of chloroform, iodoform, freons and DDT"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Organic Compounds Containing Oxygen",
+      "unit": "Unit 17 (Organic)",
+      "srcJM": "Unit 17: Organic Compounds Containing Oxygen",
+      "srcJA": "Phenols, Alcohols, Ethers, Aldehydes and Ketones, Carboxylic Acids",
+      "topics": [
+        {
+          "n": "Alcohols",
+          "e": "b",
+          "subs": [
+            "m: General methods of preparation, properties, reactions and uses",
+            "m: Identification of primary, secondary and tertiary alcohols",
+            "m: Mechanism of dehydration",
+            "a: Physical properties, esterification, dehydration (formation of alkenes and ethers)",
+            "a: Reactions with sodium, phosphorus halides, ZnCl2/concentrated HCl and thionyl chloride",
+            "a: Conversion of alcohols into aldehydes, ketones and carboxylic acids"
+          ]
+        },
+        {
+          "n": "Phenols",
+          "e": "b",
+          "subs": [
+            "m: Acidic nature",
+            "m: Electrophilic substitution reactions: halogenation, nitration and sulphonation",
+            "m: Reimer-Tiemann reaction",
+            "a: Physical properties and preparation",
+            "a: Kolbe reaction, esterification, etherification and aspirin synthesis",
+            "a: Oxidation and reduction reactions of phenol"
+          ]
+        },
+        {
+          "n": "Ethers",
+          "e": "b",
+          "subs": [
+            "m: Structure of ethers",
+            "a: Preparation by Williamson's synthesis",
+            "a: C-O bond cleavage reactions"
+          ]
+        },
+        {
+          "n": "Aldehydes and Ketones",
+          "e": "b",
+          "subs": [
+            "m: Nature of the carbonyl group",
+            "m: Nucleophilic addition to the C=O group",
+            "m: Relative reactivities of aldehydes and ketones",
+            "m: Nucleophilic addition reactions (addition of HCN, NH3 and its derivatives)",
+            "m: Grignard reagent",
+            "m: Oxidation, reduction (Wolff-Kishner and Clemmensen)",
+            "m: Acidity of alpha-hydrogen, aldol condensation",
+            "m: Cannizzaro reaction, haloform reaction",
+            "m: Chemical tests to distinguish between aldehydes and ketones",
+            "a: Preparation from acid chlorides and nitriles; aldehydes from esters; benzaldehyde from toluene and benzene",
+            "a: Oxime and hydrazone formation",
+            "a: Nucleophilic addition reaction with RMgX, NaHSO3, HCN, alcohol and amine"
+          ]
+        },
+        {
+          "n": "Carboxylic Acids",
+          "e": "b",
+          "subs": [
+            "m: Acidic strength and factors affecting it",
+            "a: Physical properties",
+            "a: Preparation from nitriles, Grignard reagents and hydrolysis of esters and amides",
+            "a: Preparation of benzoic acid from alkylbenzenes",
+            "a: Reactions: reduction, halogenation, formation of esters, acid chlorides and amides"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Organic Compounds Containing Nitrogen",
+      "unit": "Unit 18 (Organic)",
+      "srcJM": "Unit 18: Organic Compounds Containing Nitrogen",
+      "srcJA": "Amines",
+      "topics": [
+        {
+          "n": "Amines: Preparation and Properties",
+          "e": "b",
+          "subs": [
+            "m: General methods of preparation, properties, reactions and uses",
+            "m: Nomenclature, classification and structure",
+            "m: Basic character and identification of primary, secondary and tertiary amines",
+            "a: Preparation from nitro compounds, nitriles and amides",
+            "a: Hoffmann bromamide degradation and Gabriel phthalimide synthesis",
+            "a: Reaction with nitrous acid, carbylamine reaction, Hinsberg test",
+            "a: Alkylation and acylation reactions"
+          ]
+        },
+        {
+          "n": "Diazonium Salts",
+          "e": "b",
+          "subs": [
+            "m: Importance of diazonium salts in synthetic organic chemistry",
+            "a: Azo coupling reaction of diazonium salts of aromatic amines",
+            "a: Sandmeyer and related reactions of diazonium salts"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Biomolecules",
+      "unit": "Unit 19 (Organic)",
+      "srcJM": "Unit 19: Biomolecules",
+      "srcJA": "Biomolecules",
+      "topics": [
+        {
+          "n": "Carbohydrates",
+          "e": "b",
+          "subs": [
+            "m: Classification, aldoses and ketoses",
+            "m: Monosaccharides (glucose and fructose)",
+            "m: Constituent monosaccharides of oligosaccharides (sucrose, lactose and maltose)",
+            "a: Oxidation, reduction, glycoside formation and hydrolysis of disaccharides",
+            "a: Anomers"
+          ]
+        },
+        {
+          "n": "Proteins and Enzymes",
+          "e": "b",
+          "subs": [
+            "m: Elementary idea of alpha-amino acids, peptide bond, polypeptides",
+            "m: Primary, secondary, tertiary and quaternary structure of proteins (qualitative idea)",
+            "m: Denaturation of proteins, enzymes",
+            "a: Amino acids, peptide linkage, structure of peptides (primary and secondary)",
+            "a: Types of proteins (fibrous and globular)"
+          ]
+        },
+        {
+          "n": "Vitamins and Hormones",
+          "e": "m",
+          "subs": [
+            "m: Classification and functions of vitamins",
+            "m: General introduction to hormones"
+          ]
+        },
+        {
+          "n": "Nucleic Acids",
+          "e": "b",
+          "subs": [
+            "m: Chemical constitution of DNA and RNA, biological functions of nucleic acids",
+            "a: Chemical composition and structure of DNA and RNA"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Polymers",
+      "unit": "Advanced only",
+      "srcJM": "Not part of the JEE Main 2026 syllabus",
+      "srcJA": "Polymers",
+      "topics": [
+        {
+          "n": "Polymerisation and Important Polymers",
+          "e": "a",
+          "subs": [
+            "a: Types of polymerization (addition, condensation), homo and copolymers",
+            "a: Natural rubber, cellulose, nylon, Teflon, Bakelite, PVC",
+            "a: Bio-degradable polymers and applications of polymers"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Chemistry in Everyday Life",
+      "unit": "Advanced only",
+      "srcJM": "Not part of the JEE Main 2026 syllabus",
+      "srcJA": "Chemistry in Everyday Life",
+      "topics": [
+        {
+          "n": "Drugs and Therapeutic Action",
+          "e": "a",
+          "subs": [
+            "a: Drug-target interaction",
+            "a: Therapeutic action and examples of antacids, antihistamines, tranquilizers, analgesics, antimicrobials and antifertility drugs",
+            "a: Artificial sweeteners (names only)"
+          ]
+        },
+        {
+          "n": "Soaps and Detergents",
+          "e": "a",
+          "subs": ["a: Soaps, detergents and cleansing action"]
+        }
+      ]
+    },
+    {
+      "n": "Practical and Analytical Chemistry",
+      "unit": "Unit 20 (Organic) / Advanced Practical Organic Chemistry",
+      "srcJM": "Unit 20: Principles Related to Practical Chemistry",
+      "srcJA": "Practical Organic Chemistry",
+      "topics": [
+        {
+          "n": "Detection of Elements and Functional Groups",
+          "e": "b",
+          "subs": [
+            "b: Detection of extra elements (nitrogen, sulphur, halogens) in organic compounds",
+            "b: Detection of hydroxyl group (alcoholic and phenolic)",
+            "b: Detection of carbonyl group (aldehyde and ketone)",
+            "b: Detection of carboxyl, amino and nitro groups",
+            "a: Detection and identification of hydroxyl (alcoholic and phenolic), carbonyl (aldehyde and ketone), carboxyl, amino and nitro groups"
+          ]
+        },
+        {
+          "n": "Preparations",
+          "e": "m",
+          "subs": [
+            "m: Inorganic compounds: Mohr's salt, potash alum",
+            "m: Organic compounds: acetanilide, p-nitro acetanilide, aniline yellow, iodoform"
+          ]
+        },
+        {
+          "n": "Titrimetric Exercises and Salt Analysis",
+          "e": "m",
+          "subs": [
+            "m: Chemistry of titrimetric exercises - acids, bases and use of indicators",
+            "m: Oxalic acid vs KMnO4, Mohr's salt vs KMnO4",
+            "m: Qualitative salt analysis: cations Pb2+, Cu2+, Al3+, Fe3+, Zn2+, Ni2+, Ca2+, Ba2+, Mg2+, NH4+",
+            "m: Qualitative salt analysis: anions CO3(2-), S2-, SO4(2-), NO3-, NO2-, Cl-, Br-, I- (insoluble salts excluded)"
+          ]
+        },
+        {
+          "n": "Experiments",
+          "e": "m",
+          "subs": [
+            "m: Enthalpy of solution of CuSO4",
+            "m: Enthalpy of neutralization of strong acid and strong base",
+            "m: Preparation of lyophilic and lyophobic sols",
+            "m: Kinetic study of the reaction of iodide ions with hydrogen peroxide at room temperature"
+          ]
+        }
+      ]
+    }
+  ]
+}

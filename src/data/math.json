@@ -1,0 +1,480 @@
+{
+  "subject": "Mathematics",
+  "code": "math",
+  "sourceJM": "Syllabus for JEE (Main) 2026, Paper 1, NTA",
+  "sourceJA": "JEE (Advanced) 2026 Syllabus, IIT Roorkee",
+  "chapters": [
+    {
+      "n": "Sets, Relations and Functions",
+      "unit": "Unit 1",
+      "srcJM": "Unit 1: Sets, Relations and Functions",
+      "srcJA": "Sets, Relations and Functions",
+      "topics": [
+        {
+          "n": "Sets and Set Algebra",
+          "e": "b",
+          "subs": [
+            "b: Sets and their representation",
+            "b: Union, intersection and complement of sets and their algebraic properties",
+            "b: Power set",
+            "a: Different kinds of sets (empty, finite and infinite)",
+            "a: Algebra of sets, difference and symmetric difference of sets",
+            "a: De-Morgan's laws on union, intersection and difference (for finite number of sets) and practical problems"
+          ]
+        },
+        {
+          "n": "Relations",
+          "e": "b",
+          "subs": [
+            "b: Relations, types of relations",
+            "b: Equivalence relations",
+            "a: Cartesian product of finite sets, ordered pair",
+            "a: Domain and codomain of relations"
+          ]
+        },
+        {
+          "n": "Functions",
+          "e": "b",
+          "subs": [
+            "b: Functions; one-one, into and onto functions",
+            "b: Composition of functions",
+            "a: Function as a special case of relation, functions as mappings",
+            "a: Domain, codomain and range of functions",
+            "a: Invertible functions, even and odd functions",
+            "a: Special functions (polynomial, trigonometric, exponential, logarithmic, power, absolute value, greatest integer)",
+            "a: Sum, difference, product and composition of functions"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Complex Numbers and Quadratic Equations",
+      "unit": "Unit 2",
+      "srcJM": "Unit 2: Complex Numbers and Quadratic Equations",
+      "srcJA": "Algebra",
+      "topics": [
+        {
+          "n": "Complex Numbers: Algebra and Representation",
+          "e": "b",
+          "subs": [
+            "b: Complex numbers as ordered pairs of reals",
+            "b: Representation of complex numbers in the form a + ib and in a plane, Argand diagram",
+            "b: Algebra of complex numbers",
+            "b: Modulus and argument (amplitude) of a complex number",
+            "a: Addition, multiplication and conjugation",
+            "a: Polar representation",
+            "a: Properties of modulus and principal argument",
+            "a: Triangle inequality",
+            "a: Cube roots of unity and geometric interpretations"
+          ]
+        },
+        {
+          "n": "Quadratic Equations",
+          "e": "b",
+          "subs": [
+            "b: Quadratic equations in real and complex number systems and their solutions",
+            "b: Relations between roots and coefficients",
+            "b: Nature of roots",
+            "b: Formation of quadratic equations with given roots",
+            "a: Statement of the fundamental theorem of algebra",
+            "a: Quadratic equations with real coefficients",
+            "a: Symmetric functions of roots"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Matrices and Determinants",
+      "unit": "Unit 3",
+      "srcJM": "Unit 3: Matrices and Determinants",
+      "srcJA": "Matrices",
+      "topics": [
+        {
+          "n": "Matrices and their Algebra",
+          "e": "b",
+          "subs": [
+            "b: Matrices, algebra of matrices",
+            "b: Types of matrices (order two and three)",
+            "a: Matrices as a rectangular array of real numbers, equality of matrices",
+            "a: Addition, multiplication by a scalar and product of matrices",
+            "a: Transpose of a matrix, elementary row and column transformations",
+            "a: Diagonal, symmetric and skew-symmetric matrices and their properties"
+          ]
+        },
+        {
+          "n": "Determinants",
+          "e": "b",
+          "subs": [
+            "b: Determinants and matrices of order two and three",
+            "b: Evaluation of determinants",
+            "b: Area of triangles using determinants",
+            "b: Adjoint and inverse of a square matrix",
+            "a: Determinant of a square matrix of order up to three, properties of determinants"
+          ]
+        },
+        {
+          "n": "Simultaneous Linear Equations",
+          "e": "b",
+          "subs": [
+            "b: Test of consistency and solution of simultaneous linear equations in two or three variables using matrices",
+            "a: Solutions of simultaneous linear equations in two or three variables"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Permutations and Combinations",
+      "unit": "Unit 4",
+      "srcJM": "Unit 4: Permutations and Combinations",
+      "srcJA": "Algebra",
+      "topics": [
+        {
+          "n": "Fundamental Principle of Counting and Applications",
+          "e": "b",
+          "subs": [
+            "b: Fundamental principle of counting",
+            "b: Permutations and combinations",
+            "b: Meaning of P(n, r) and C(n, r)",
+            "b: Simple applications",
+            "a: Permutations and combinations (Advanced level applications)"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Binomial Theorem and Its Simple Applications",
+      "unit": "Unit 5",
+      "srcJM": "Unit 5: Binomial Theorem and Its Simple Applications",
+      "srcJA": "Algebra",
+      "topics": [
+        {
+          "n": "Binomial Theorem",
+          "e": "b",
+          "subs": [
+            "b: Binomial theorem for a positive integral index",
+            "b: General term and middle term",
+            "b: Simple applications",
+            "a: Properties of binomial coefficients"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Sequence and Series",
+      "unit": "Unit 6",
+      "srcJM": "Unit 6: Sequence and Series",
+      "srcJA": "Algebra",
+      "topics": [
+        {
+          "n": "Arithmetic and Geometric Progressions",
+          "e": "b",
+          "subs": [
+            "b: Arithmetic and geometric progressions",
+            "b: Insertion of arithmetic and geometric means between two given numbers",
+            "b: Relation between A.M. and G.M.",
+            "a: Sums of finite arithmetic and geometric progressions",
+            "a: Infinite geometric series"
+          ]
+        },
+        {
+          "n": "Special Series and Summations",
+          "e": "a",
+          "subs": [
+            "a: Sum of the first n natural numbers",
+            "a: Sums of squares and cubes of the first n natural numbers"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Logarithms",
+      "unit": "Advanced only",
+      "srcJM": "Not a separate unit in the JEE Main 2026 syllabus (logarithmic functions appear in Unit 7)",
+      "srcJA": "Algebra",
+      "note": "In the official JEE Advanced syllabus this appears as part of the 'Algebra' section.",
+      "topics": [
+        {
+          "n": "Logarithms and Their Properties",
+          "e": "a",
+          "subs": [
+            "a: Logarithms and their properties"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Limit, Continuity and Differentiability",
+      "unit": "Unit 7",
+      "srcJM": "Unit 7: Limit, Continuity and Differentiability",
+      "srcJA": "Differential Calculus",
+      "topics": [
+        {
+          "n": "Functions and Graphs",
+          "e": "m",
+          "subs": [
+            "m: Real-valued functions, algebra of functions",
+            "m: Polynomial, rational, trigonometric, logarithmic and exponential functions",
+            "m: Inverse functions",
+            "m: Graphs of simple functions"
+          ]
+        },
+        {
+          "n": "Limits and Continuity",
+          "e": "b",
+          "subs": [
+            "b: Limits and continuity",
+            "a: Limit of a function at a real number, continuity of a function",
+            "a: Limit and continuity of the sum, difference, product and quotient of two functions",
+            "a: L'Hospital rule for evaluation of limits",
+            "a: Continuity of composite functions, intermediate value property of continuous functions"
+          ]
+        },
+        {
+          "n": "Differentiation",
+          "e": "b",
+          "subs": [
+            "b: Differentiability",
+            "b: Differentiation of sum, difference, product and quotient of two functions",
+            "b: Differentiation of trigonometric, inverse trigonometric, logarithmic, exponential, composite and implicit functions",
+            "b: Derivatives of order up to two",
+            "a: Derivative of a function, chain rule",
+            "a: Derivatives of polynomial, rational, trigonometric, inverse trigonometric, exponential and logarithmic functions",
+            "a: Derivatives up to order two of implicit functions, geometric interpretation of derivatives"
+          ]
+        },
+        {
+          "n": "Applications of Derivatives",
+          "e": "b",
+          "subs": [
+            "b: Rate of change of quantities",
+            "b: Monotonically increasing and decreasing functions",
+            "b: Maxima and minima of functions of one variable",
+            "a: Tangents and normals",
+            "a: Maximum and minimum values of a function",
+            "a: Rolle's theorem and Lagrange's mean value theorem, geometric interpretation"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Integral Calculus",
+      "unit": "Unit 8",
+      "srcJM": "Unit 8: Integral Calculus",
+      "srcJA": "Integral Calculus",
+      "topics": [
+        {
+          "n": "Indefinite Integration",
+          "e": "b",
+          "subs": [
+            "b: Integral as an anti-derivative",
+            "b: Fundamental integrals involving algebraic, trigonometric, exponential and logarithmic functions",
+            "b: Integration by substitution",
+            "b: Integration by parts",
+            "b: Integration by partial fractions",
+            "b: Integration using trigonometric identities",
+            "b: Evaluation of simple integrals of standard types",
+            "a: Integration as the inverse process of differentiation, indefinite integrals of standard functions"
+          ]
+        },
+        {
+          "n": "Definite Integrals",
+          "e": "b",
+          "subs": [
+            "b: Fundamental theorem of calculus",
+            "b: Properties of definite integrals",
+            "b: Evaluation of definite integrals",
+            "a: Definite integrals as the limit of sums",
+            "a: Definite integrals and their properties, fundamental theorem of integral calculus"
+          ]
+        },
+        {
+          "n": "Area Under Curves",
+          "e": "b",
+          "subs": [
+            "b: Determining areas of regions bounded by simple curves in standard forms",
+            "a: Application of definite integrals to the determination of areas bounded by simple curves"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Differential Equations",
+      "unit": "Unit 9",
+      "srcJM": "Unit 9: Differential Equations",
+      "srcJA": "Integral Calculus",
+      "topics": [
+        {
+          "n": "Ordinary Differential Equations",
+          "e": "b",
+          "subs": [
+            "b: Ordinary differential equations, their order and degree",
+            "b: Solution by the method of separation of variables",
+            "b: Solution of a homogeneous differential equation",
+            "b: Solution of a linear differential equation of the type dy/dx + p(x)y = q(x)",
+            "a: Formation of ordinary differential equations",
+            "a: Solution of homogeneous differential equations of first order and first degree",
+            "a: Linear first order differential equations"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Coordinate Geometry (2D)",
+      "unit": "Unit 10",
+      "srcJM": "Unit 10: Co-ordinate Geometry",
+      "srcJA": "Analytical Geometry (two dimensions)",
+      "topics": [
+        {
+          "n": "Cartesian System, Locus and Straight Lines",
+          "e": "b",
+          "subs": [
+            "b: Cartesian system of rectangular coordinates in a plane, distance formula, section formula",
+            "b: Locus and its equation, slope of a line, parallel and perpendicular lines",
+            "b: Intercepts of a line on the coordinate axes",
+            "b: Various forms of equations of a line, intersection of lines",
+            "b: Angles between two lines",
+            "b: Conditions for concurrence of three lines",
+            "b: Distance of a point from a line",
+            "b: Coordinates of centroid, orthocentre and circumcentre of a triangle",
+            "a: Shift of origin, lines through the point of intersection of two given lines",
+            "a: Equation of the bisector of the angle between two lines, concurrency of lines",
+            "a: Centroid, orthocentre, incentre and circumcentre of a triangle"
+          ]
+        },
+        {
+          "n": "Circles",
+          "e": "b",
+          "subs": [
+            "b: Standard form of the equation of a circle",
+            "b: General form of the equation of a circle, its radius and centre",
+            "b: Equation of a circle when the endpoints of a diameter are given",
+            "b: Points of intersection of a line and a circle with centre at the origin",
+            "a: Equation of a circle in various forms",
+            "a: Equations of tangent, normal and chord",
+            "a: Parametric equations of a circle",
+            "a: Intersection of a circle with a straight line or a circle",
+            "a: Equation of a circle through the points of intersection of two circles and of a circle and a straight line"
+          ]
+        },
+        {
+          "n": "Conic Sections",
+          "e": "b",
+          "subs": [
+            "b: Sections of conics and equations of conic sections (parabola, ellipse and hyperbola) in standard forms",
+            "a: Equations of a parabola, ellipse and hyperbola in standard form",
+            "a: Foci, directrices and eccentricity",
+            "a: Parametric equations, equations of tangent and normal",
+            "a: Locus problems"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Three Dimensional Geometry",
+      "unit": "Unit 11",
+      "srcJM": "Unit 11: Three Dimensional Geometry",
+      "srcJA": "Analytical Geometry (three dimensions)",
+      "topics": [
+        {
+          "n": "Points, Lines and Direction Cosines",
+          "e": "b",
+          "subs": [
+            "b: Coordinates of a point in space, distance between two points, section formula",
+            "b: Direction ratios and direction cosines",
+            "b: Angle between two intersecting lines",
+            "b: Equation of a line",
+            "b: Skew lines, shortest distance between them and its equation",
+            "a: Equation of a straight line in space, skew lines, shortest distance between two lines",
+            "a: Coplanar lines"
+          ]
+        },
+        {
+          "n": "Planes and Angles",
+          "e": "a",
+          "subs": [
+            "a: Equation of a plane, distance of a point from a plane",
+            "a: Angle between two lines, angle between two planes, angle between a line and the plane"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Vector Algebra",
+      "unit": "Unit 12",
+      "srcJM": "Unit 12: Vector Algebra",
+      "srcJA": "Vectors",
+      "topics": [
+        {
+          "n": "Vectors and their Algebra",
+          "e": "b",
+          "subs": [
+            "b: Vectors and scalars, addition of vectors",
+            "b: Components of a vector in two and three dimensions",
+            "b: Scalar and vector products",
+            "a: Scalar and vector triple products and their geometrical interpretations"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Statistics and Probability",
+      "unit": "Unit 13",
+      "srcJM": "Unit 13: Statistics and Probability",
+      "srcJA": "Probability and Statistics",
+      "topics": [
+        {
+          "n": "Statistics and Measures of Dispersion",
+          "e": "b",
+          "subs": [
+            "b: Measures of dispersion",
+            "b: Calculation of mean, median and mode of grouped and ungrouped data",
+            "b: Calculation of standard deviation, variance and mean deviation for grouped and ungrouped data",
+            "a: Measure of central tendency and dispersion",
+            "a: Analysis of frequency distribution with same mean but different variance"
+          ]
+        },
+        {
+          "n": "Probability",
+          "e": "b",
+          "subs": [
+            "b: Probability of an event",
+            "b: Addition and multiplication theorems of probability",
+            "b: Baye's theorem",
+            "b: Probability distribution of a random variable",
+            "a: Random experiment, sample space, types of events",
+            "a: Conditional probability, independence of events, total probability",
+            "a: Computation of probability using permutations and combinations",
+            "a: Random variable, mean and variance of a random variable"
+          ]
+        }
+      ]
+    },
+    {
+      "n": "Trigonometry",
+      "unit": "Unit 14",
+      "srcJM": "Unit 14: Trigonometry",
+      "srcJA": "Trigonometry",
+      "topics": [
+        {
+          "n": "Trigonometric Ratios, Identities and Equations",
+          "e": "b",
+          "subs": [
+            "b: Trigonometrical identities and trigonometrical functions",
+            "a: Trigonometric functions, periodicity and graphs",
+            "a: Addition and subtraction formulae",
+            "a: Formulae involving multiple and sub-multiple angles",
+            "a: General solution of trigonometric equations"
+          ]
+        },
+        {
+          "n": "Inverse Trigonometric Functions",
+          "e": "b",
+          "subs": [
+            "b: Inverse trigonometrical functions and their properties",
+            "a: Inverse trigonometric functions (principal value only) and their elementary properties"
+          ]
+        }
+      ]
+    }
+  ]
+}
